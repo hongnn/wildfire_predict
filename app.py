@@ -41,16 +41,10 @@ CALIFORNIA_VIEW = {
 }
 
 
-def get_google_maps_api_key() -> str | None:
-    secrets_key = None
-    try:
-        secrets_key = st.secrets.get("GOOGLE_MAPS_API_KEY")
-    except Exception:
-        secrets_key = None
+GOOGLE_MAPS_API_KEY = "AIzaSyABzbRRXNeU_C4hMDbpQUA-MnuyY7yG9OA"  # 替换成你的真实 Key
 
-    env_key = os.getenv("GOOGLE_MAPS_API_KEY")
-    key = secrets_key or env_key
-    return key.strip() if isinstance(key, str) and key.strip() else None
+def get_google_maps_api_key() -> str | None:
+    return GOOGLE_MAPS_API_KEY if GOOGLE_MAPS_API_KEY else None
 
 
 def serialize_for_js(value: Any):
