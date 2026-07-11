@@ -1,0 +1,856 @@
+﻿grid_id,county,county_short,geoid,grid_km,center_lat,center_lon,row_index,col_index,is_mock,shape_model,month,monthly_fire_probability_pct,risk_score,risk_level,mock_ndvi,mock_avgtempF,mock_humid,mock_wind,county_avgtempF,county_humid,county_wind,county_precip,county_sunHour
+06067_5km_0001,Sacramento County,Sacramento,06067,5.0,38.113165,-121.665924,0,0,1,county_boundary_clipped_grid,2020-08,1.33,0.2344,low,0.3496,87.12,39.07,4.93,86.84,39.71,4.77,0.0,11.52
+06067_5km_0002,Sacramento County,Sacramento,06067,5.0,38.121669,-121.620499,0,1,1,county_boundary_clipped_grid,2020-08,1.33,0.2321,low,0.3467,87.01,39.33,4.87,86.84,39.71,4.77,0.0,11.52
+06067_5km_0003,Sacramento County,Sacramento,06067,5.0,38.115618,-121.587126,0,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2312,low,0.3456,86.96,39.43,4.84,86.84,39.71,4.77,0.0,11.52
+06067_5km_0004,Sacramento County,Sacramento,06067,5.0,38.147136,-121.668932,1,0,1,county_boundary_clipped_grid,2020-08,1.33,0.2323,low,0.3469,87.01,39.32,4.87,86.84,39.71,4.77,0.0,11.52
+06067_5km_0005,Sacramento County,Sacramento,06067,5.0,38.157081,-121.620499,1,1,1,county_boundary_clipped_grid,2020-08,1.33,0.2298,low,0.3438,86.89,39.6,4.8,86.84,39.71,4.77,0.0,11.52
+06067_5km_0006,Sacramento County,Sacramento,06067,5.0,38.15487,-121.564027,1,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2277,low,0.3411,86.78,39.83,4.8,86.84,39.71,4.77,0.0,11.52
+06067_5km_0007,Sacramento County,Sacramento,06067,5.0,38.165774,-121.532087,1,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2257,low,0.3386,86.68,40.06,4.86,86.84,39.71,4.77,0.0,11.52
+06067_5km_0008,Sacramento County,Sacramento,06067,5.0,38.183852,-121.65247,2,0,1,county_boundary_clipped_grid,2020-08,1.33,0.2292,low,0.3431,86.86,39.66,4.79,86.84,39.71,4.77,0.0,11.52
+06067_5km_0009,Sacramento County,Sacramento,06067,5.0,38.200246,-121.602065,2,1,1,county_boundary_clipped_grid,2020-08,1.33,0.2262,low,0.3393,86.71,40.0,4.84,86.84,39.71,4.77,0.0,11.52
+06067_5km_0010,Sacramento County,Sacramento,06067,5.0,38.201997,-121.563147,2,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2245,low,0.3372,86.63,40.18,4.89,86.84,39.71,4.77,0.0,11.52
+06067_5km_0011,Sacramento County,Sacramento,06067,5.0,38.19838,-121.529695,2,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2234,low,0.3359,86.57,40.31,4.92,86.84,39.71,4.77,0.0,11.52
+06067_5km_0012,Sacramento County,Sacramento,06067,5.0,38.23844,-121.597006,3,1,1,county_boundary_clipped_grid,2020-08,1.33,0.2238,low,0.3363,86.59,40.27,4.91,86.84,39.71,4.77,0.0,11.52
+06067_5km_0013,Sacramento County,Sacramento,06067,5.0,38.246912,-121.563147,3,2,1,county_boundary_clipped_grid,2020-08,1.33,0.222,low,0.334,86.5,40.47,4.96,86.84,39.71,4.77,0.0,11.52
+06067_5km_0014,Sacramento County,Sacramento,06067,5.0,38.249873,-121.506898,3,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2196,low,0.3311,86.38,40.74,5.03,86.84,39.71,4.77,0.0,11.52
+06067_5km_0015,Sacramento County,Sacramento,06067,5.0,38.25407,-121.424651,3,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2245,low,0.3235,86.43,40.29,5.32,86.84,39.71,4.77,0.0,11.52
+06067_5km_0016,Sacramento County,Sacramento,06067,5.0,38.253139,-121.39109,3,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2249,low,0.3218,86.42,40.26,5.37,86.84,39.71,4.77,0.0,11.52
+06067_5km_0017,Sacramento County,Sacramento,06067,5.0,38.253265,-121.333738,3,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2248,low,0.32,86.39,40.28,5.43,86.84,39.71,4.77,0.0,11.52
+06067_5km_0018,Sacramento County,Sacramento,06067,5.0,38.260821,-121.276385,3,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2253,low,0.3183,86.38,40.24,5.49,86.84,39.71,4.77,0.0,11.52
+06067_5km_0019,Sacramento County,Sacramento,06067,5.0,38.2619,-121.219033,3,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2222,low,0.3201,86.31,40.55,5.39,86.84,39.71,4.77,0.0,11.52
+06067_5km_0020,Sacramento County,Sacramento,06067,5.0,38.260386,-121.178414,3,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2183,low,0.3231,86.23,40.93,5.26,86.84,39.71,4.77,0.0,11.52
+06067_5km_0021,Sacramento County,Sacramento,06067,5.0,38.290736,-121.598589,4,1,1,county_boundary_clipped_grid,2020-08,1.33,0.2214,low,0.3334,86.47,40.53,4.98,86.84,39.71,4.77,0.0,11.52
+06067_5km_0022,Sacramento County,Sacramento,06067,5.0,38.291828,-121.563147,4,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2259,low,0.3286,86.55,40.11,5.17,86.84,39.71,4.77,0.0,11.52
+06067_5km_0023,Sacramento County,Sacramento,06067,5.0,38.291828,-121.505795,4,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2314,low,0.3219,86.63,39.58,5.44,86.84,39.71,4.77,0.0,11.52
+06067_5km_0024,Sacramento County,Sacramento,06067,5.0,38.291828,-121.448442,4,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2352,low,0.3165,86.68,39.22,5.65,86.84,39.71,4.77,0.0,11.52
+06067_5km_0025,Sacramento County,Sacramento,06067,5.0,38.291828,-121.39109,4,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2371,low,0.3128,86.68,39.05,5.79,86.84,39.71,4.77,0.0,11.52
+06067_5km_0026,Sacramento County,Sacramento,06067,5.0,38.291828,-121.333738,4,6,1,county_boundary_clipped_grid,2020-08,1.33,0.237,low,0.311,86.65,39.08,5.84,86.84,39.71,4.77,0.0,11.52
+06067_5km_0027,Sacramento County,Sacramento,06067,5.0,38.291828,-121.276385,4,7,1,county_boundary_clipped_grid,2020-08,1.33,0.235,low,0.3112,86.59,39.28,5.81,86.84,39.71,4.77,0.0,11.52
+06067_5km_0028,Sacramento County,Sacramento,06067,5.0,38.291828,-121.219033,4,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2312,low,0.3135,86.5,39.67,5.7,86.84,39.71,4.77,0.0,11.52
+06067_5km_0029,Sacramento County,Sacramento,06067,5.0,38.293459,-121.161681,4,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2262,low,0.3173,86.4,40.16,5.52,86.84,39.71,4.77,0.0,11.52
+06067_5km_0030,Sacramento County,Sacramento,06067,5.0,38.303615,-121.104328,4,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2219,low,0.3213,86.32,40.57,5.35,86.84,39.71,4.77,0.0,11.52
+06067_5km_0031,Sacramento County,Sacramento,06067,5.0,38.307269,-121.051371,4,11,1,county_boundary_clipped_grid,2020-08,1.33,0.2163,low,0.3269,86.22,41.11,5.12,86.84,39.71,4.77,0.0,11.52
+06067_5km_0032,Sacramento County,Sacramento,06067,5.0,38.314918,-121.591912,5,1,1,county_boundary_clipped_grid,2020-08,1.33,0.228,low,0.3283,86.61,39.89,5.21,86.84,39.71,4.77,0.0,11.52
+06067_5km_0033,Sacramento County,Sacramento,06067,5.0,38.335017,-121.551242,5,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2377,low,0.3198,86.8,38.94,5.58,86.84,39.71,4.77,0.0,11.52
+06067_5km_0034,Sacramento County,Sacramento,06067,5.0,38.332044,-121.505795,5,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2419,low,0.3147,86.86,38.55,5.78,86.84,39.71,4.77,0.0,11.52
+06067_5km_0035,Sacramento County,Sacramento,06067,5.0,38.336744,-121.448442,5,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2475,low,0.3083,86.95,38.01,6.04,86.84,39.71,4.77,0.0,11.52
+06067_5km_0036,Sacramento County,Sacramento,06067,5.0,38.336744,-121.39109,5,5,1,county_boundary_clipped_grid,2020-08,1.33,0.25,low,0.3043,86.97,37.79,6.19,86.84,39.71,4.77,0.0,11.52
+06067_5km_0037,Sacramento County,Sacramento,06067,5.0,38.336744,-121.333738,5,6,1,county_boundary_clipped_grid,2020-08,1.33,0.25,low,0.3024,86.95,37.79,6.25,86.84,39.71,4.77,0.0,11.52
+06067_5km_0038,Sacramento County,Sacramento,06067,5.0,38.336744,-121.276385,5,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2477,low,0.3027,86.88,38.03,6.22,86.84,39.71,4.77,0.0,11.52
+06067_5km_0039,Sacramento County,Sacramento,06067,5.0,38.336744,-121.219033,5,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2433,low,0.3053,86.78,38.47,6.09,86.84,39.71,4.77,0.0,11.52
+06067_5km_0040,Sacramento County,Sacramento,06067,5.0,38.336744,-121.161681,5,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2371,low,0.3099,86.64,39.08,5.88,86.84,39.71,4.77,0.0,11.52
+06067_5km_0041,Sacramento County,Sacramento,06067,5.0,38.336744,-121.104328,5,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2295,low,0.3161,86.49,39.82,5.6,86.84,39.71,4.77,0.0,11.52
+06067_5km_0042,Sacramento County,Sacramento,06067,5.0,38.336744,-121.051385,5,11,1,county_boundary_clipped_grid,2020-08,1.33,0.2214,low,0.3232,86.33,40.61,5.29,86.84,39.71,4.77,0.0,11.52
+06067_5km_0043,Sacramento County,Sacramento,06067,5.0,38.383174,-121.498324,6,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2533,low,0.3079,87.13,37.41,6.12,86.84,39.71,4.77,0.0,11.52
+06067_5km_0044,Sacramento County,Sacramento,06067,5.0,38.381659,-121.448442,6,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2577,low,0.3027,87.2,37.0,6.33,86.84,39.71,4.77,0.0,11.52
+06067_5km_0045,Sacramento County,Sacramento,06067,5.0,38.381659,-121.39109,6,5,1,county_boundary_clipped_grid,2020-08,1.33,0.261,low,0.2983,87.24,36.69,6.5,86.84,39.71,4.77,0.0,11.52
+06067_5km_0046,Sacramento County,Sacramento,06067,5.0,38.381659,-121.333738,6,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2614,low,0.2962,87.23,36.66,6.57,86.84,39.71,4.77,0.0,11.52
+06067_5km_0047,Sacramento County,Sacramento,06067,5.0,38.381659,-121.276385,6,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2586,low,0.2968,87.15,36.95,6.52,86.84,39.71,4.77,0.0,11.52
+06067_5km_0048,Sacramento County,Sacramento,06067,5.0,38.381659,-121.219033,6,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2532,low,0.2999,87.02,37.48,6.37,86.84,39.71,4.77,0.0,11.52
+06067_5km_0049,Sacramento County,Sacramento,06067,5.0,38.381659,-121.161681,6,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2461,low,0.3049,86.86,38.18,6.13,86.84,39.71,4.77,0.0,11.52
+06067_5km_0050,Sacramento County,Sacramento,06067,5.0,38.381659,-121.104328,6,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2377,low,0.3116,86.69,39.0,5.83,86.84,39.71,4.77,0.0,11.52
+06067_5km_0051,Sacramento County,Sacramento,06067,5.0,38.381659,-121.051406,6,11,1,county_boundary_clipped_grid,2020-08,1.33,0.229,low,0.3189,86.51,39.85,5.51,86.84,39.71,4.77,0.0,11.52
+06067_5km_0052,Sacramento County,Sacramento,06067,5.0,38.417718,-121.50064,7,3,1,county_boundary_clipped_grid,2020-08,1.33,0.258,low,0.3066,87.26,36.94,6.21,86.84,39.71,4.77,0.0,11.52
+06067_5km_0053,Sacramento County,Sacramento,06067,5.0,38.426575,-121.448442,7,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2645,low,0.3005,87.39,36.3,6.48,86.84,39.71,4.77,0.0,11.52
+06067_5km_0054,Sacramento County,Sacramento,06067,5.0,38.426575,-121.39109,7,5,1,county_boundary_clipped_grid,2020-08,1.33,0.269,low,0.2954,87.46,35.87,6.68,86.84,39.71,4.77,0.0,11.52
+06067_5km_0055,Sacramento County,Sacramento,06067,5.0,38.426575,-121.333738,7,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2702,low,0.293,87.46,35.77,6.77,86.84,39.71,4.77,0.0,11.52
+06067_5km_0056,Sacramento County,Sacramento,06067,5.0,38.426575,-121.276385,7,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2663,low,0.2941,87.36,36.16,6.69,86.84,39.71,4.77,0.0,11.52
+06067_5km_0057,Sacramento County,Sacramento,06067,5.0,38.426575,-121.219033,7,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2599,low,0.2977,87.2,36.81,6.51,86.84,39.71,4.77,0.0,11.52
+06067_5km_0058,Sacramento County,Sacramento,06067,5.0,38.426575,-121.161681,7,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2519,low,0.3032,87.02,37.59,6.25,86.84,39.71,4.77,0.0,11.52
+06067_5km_0059,Sacramento County,Sacramento,06067,5.0,38.426575,-121.104328,7,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2429,low,0.3101,86.83,38.47,5.94,86.84,39.71,4.77,0.0,11.52
+06067_5km_0060,Sacramento County,Sacramento,06067,5.0,38.426575,-121.051427,7,11,1,county_boundary_clipped_grid,2020-08,1.33,0.2338,low,0.3176,86.65,39.36,5.6,86.84,39.71,4.77,0.0,11.52
+06067_5km_0061,Sacramento County,Sacramento,06067,5.0,38.487578,-121.543187,8,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2545,low,0.3155,87.28,37.24,5.9,86.84,39.71,4.77,0.0,11.52
+06067_5km_0062,Sacramento County,Sacramento,06067,5.0,38.469686,-121.491811,8,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2616,low,0.3071,87.39,36.56,6.24,86.84,39.71,4.77,0.0,11.52
+06067_5km_0063,Sacramento County,Sacramento,06067,5.0,38.47149,-121.448442,8,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2662,low,0.3023,87.47,36.12,6.44,86.84,39.71,4.77,0.0,11.52
+06067_5km_0064,Sacramento County,Sacramento,06067,5.0,38.47149,-121.39109,8,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2708,low,0.2973,87.54,35.68,6.65,86.84,39.71,4.77,0.0,11.52
+06067_5km_0065,Sacramento County,Sacramento,06067,5.0,38.47149,-121.333738,8,6,1,county_boundary_clipped_grid,2020-08,1.33,0.272,low,0.2948,87.55,35.57,6.74,86.84,39.71,4.77,0.0,11.52
+06067_5km_0066,Sacramento County,Sacramento,06067,5.0,38.47149,-121.276385,8,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2681,low,0.296,87.44,35.97,6.65,86.84,39.71,4.77,0.0,11.52
+06067_5km_0067,Sacramento County,Sacramento,06067,5.0,38.47149,-121.219033,8,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2615,low,0.2996,87.28,36.62,6.47,86.84,39.71,4.77,0.0,11.52
+06067_5km_0068,Sacramento County,Sacramento,06067,5.0,38.47149,-121.161681,8,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2536,low,0.305,87.1,37.41,6.21,86.84,39.71,4.77,0.0,11.52
+06067_5km_0069,Sacramento County,Sacramento,06067,5.0,38.47149,-121.104328,8,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2446,low,0.312,86.91,38.29,5.9,86.84,39.71,4.77,0.0,11.52
+06067_5km_0070,Sacramento County,Sacramento,06067,5.0,38.469142,-121.051448,8,11,1,county_boundary_clipped_grid,2020-08,1.33,0.2354,low,0.3193,86.72,39.18,5.57,86.84,39.71,4.77,0.0,11.52
+06067_5km_0071,Sacramento County,Sacramento,06067,5.0,38.505907,-121.544994,9,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2532,low,0.3179,87.27,37.36,5.81,86.84,39.71,4.77,0.0,11.52
+06067_5km_0072,Sacramento County,Sacramento,06067,5.0,38.505557,-121.505795,9,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2581,low,0.3128,87.36,36.88,6.02,86.84,39.71,4.77,0.0,11.52
+06067_5km_0073,Sacramento County,Sacramento,06067,5.0,38.516406,-121.448442,9,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2625,low,0.3081,87.43,36.46,6.22,86.84,39.71,4.77,0.0,11.52
+06067_5km_0074,Sacramento County,Sacramento,06067,5.0,38.516406,-121.39109,9,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2658,low,0.3037,87.48,36.14,6.39,86.84,39.71,4.77,0.0,11.52
+06067_5km_0075,Sacramento County,Sacramento,06067,5.0,38.516406,-121.333738,9,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2663,low,0.3016,87.46,36.12,6.46,86.84,39.71,4.77,0.0,11.52
+06067_5km_0076,Sacramento County,Sacramento,06067,5.0,38.516406,-121.276385,9,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2635,low,0.3022,87.38,36.4,6.41,86.84,39.71,4.77,0.0,11.52
+06067_5km_0077,Sacramento County,Sacramento,06067,5.0,38.516406,-121.219033,9,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2581,low,0.3053,87.25,36.94,6.25,86.84,39.71,4.77,0.0,11.52
+06067_5km_0078,Sacramento County,Sacramento,06067,5.0,38.516406,-121.161681,9,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2509,low,0.3103,87.09,37.64,6.02,86.84,39.71,4.77,0.0,11.52
+06067_5km_0079,Sacramento County,Sacramento,06067,5.0,38.516406,-121.104328,9,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2425,low,0.317,86.92,38.47,5.72,86.84,39.71,4.77,0.0,11.52
+06067_5km_0080,Sacramento County,Sacramento,06067,5.0,38.510571,-121.052565,9,11,1,county_boundary_clipped_grid,2020-08,1.33,0.2343,low,0.3234,86.75,39.27,5.43,86.84,39.71,4.77,0.0,11.52
+06067_5km_0081,Sacramento County,Sacramento,06067,5.0,38.556247,-121.496623,10,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2522,low,0.3204,87.28,37.44,5.72,86.84,39.71,4.77,0.0,11.52
+06067_5km_0082,Sacramento County,Sacramento,06067,5.0,38.561321,-121.448442,10,4,1,county_boundary_clipped_grid,2020-08,1.33,0.255,low,0.3167,87.31,37.18,5.87,86.84,39.71,4.77,0.0,11.52
+06067_5km_0083,Sacramento County,Sacramento,06067,5.0,38.561321,-121.39109,10,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2575,low,0.3127,87.34,36.95,6.02,86.84,39.71,4.77,0.0,11.52
+06067_5km_0084,Sacramento County,Sacramento,06067,5.0,38.561321,-121.333738,10,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2576,low,0.3108,87.31,36.95,6.08,86.84,39.71,4.77,0.0,11.52
+06067_5km_0085,Sacramento County,Sacramento,06067,5.0,38.561321,-121.276385,10,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2552,low,0.3112,87.24,37.19,6.04,86.84,39.71,4.77,0.0,11.52
+06067_5km_0086,Sacramento County,Sacramento,06067,5.0,38.561321,-121.219033,10,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2508,low,0.3137,87.14,37.63,5.91,86.84,39.71,4.77,0.0,11.52
+06067_5km_0087,Sacramento County,Sacramento,06067,5.0,38.561321,-121.161681,10,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2445,low,0.3183,87.0,38.25,5.7,86.84,39.71,4.77,0.0,11.52
+06067_5km_0088,Sacramento County,Sacramento,06067,5.0,38.561321,-121.104328,10,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2369,low,0.3246,86.84,38.99,5.42,86.84,39.71,4.77,0.0,11.52
+06067_5km_0089,Sacramento County,Sacramento,06067,5.0,38.561321,-121.063054,10,11,1,county_boundary_clipped_grid,2020-08,1.33,0.2306,low,0.33,86.72,39.6,5.18,86.84,39.71,4.77,0.0,11.52
+06067_5km_0090,Sacramento County,Sacramento,06067,5.0,38.618449,-121.547396,11,2,1,county_boundary_clipped_grid,2020-08,1.33,0.234,low,0.3402,86.97,39.19,4.91,86.84,39.71,4.77,0.0,11.52
+06067_5km_0091,Sacramento County,Sacramento,06067,5.0,38.616649,-121.505795,11,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2382,low,0.3351,87.04,38.78,5.11,86.84,39.71,4.77,0.0,11.52
+06067_5km_0092,Sacramento County,Sacramento,06067,5.0,38.606237,-121.448442,11,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2446,low,0.3271,87.13,38.17,5.43,86.84,39.71,4.77,0.0,11.52
+06067_5km_0093,Sacramento County,Sacramento,06067,5.0,38.606237,-121.39109,11,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2465,low,0.3234,87.14,38.0,5.56,86.84,39.71,4.77,0.0,11.52
+06067_5km_0094,Sacramento County,Sacramento,06067,5.0,38.606237,-121.333738,11,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2465,low,0.3216,87.11,38.02,5.62,86.84,39.71,4.77,0.0,11.52
+06067_5km_0095,Sacramento County,Sacramento,06067,5.0,38.606237,-121.276385,11,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2444,low,0.3218,87.05,38.23,5.59,86.84,39.71,4.77,0.0,11.52
+06067_5km_0096,Sacramento County,Sacramento,06067,5.0,38.606237,-121.219033,11,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2406,low,0.3241,86.96,38.62,5.48,86.84,39.71,4.77,0.0,11.52
+06067_5km_0097,Sacramento County,Sacramento,06067,5.0,38.606237,-121.161681,11,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2351,low,0.3283,86.84,39.15,5.29,86.84,39.71,4.77,0.0,11.52
+06067_5km_0098,Sacramento County,Sacramento,06067,5.0,38.602658,-121.104328,11,10,1,county_boundary_clipped_grid,2020-08,1.33,0.229,low,0.3334,86.72,39.75,5.06,86.84,39.71,4.77,0.0,11.52
+06067_5km_0099,Sacramento County,Sacramento,06067,5.0,38.595686,-121.070485,11,11,1,county_boundary_clipped_grid,2020-08,1.33,0.2258,low,0.336,86.65,40.07,4.94,86.84,39.71,4.77,0.0,11.52
+06067_5km_0100,Sacramento County,Sacramento,06067,5.0,38.652607,-121.596821,12,1,1,county_boundary_clipped_grid,2020-08,1.33,0.2331,low,0.3479,87.06,39.22,4.89,86.84,39.71,4.77,0.0,11.52
+06067_5km_0101,Sacramento County,Sacramento,06067,5.0,38.661107,-121.563147,12,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2323,low,0.3469,87.01,39.31,4.87,86.84,39.71,4.77,0.0,11.52
+06067_5km_0102,Sacramento County,Sacramento,06067,5.0,38.651152,-121.505795,12,3,1,county_boundary_clipped_grid,2020-08,1.33,0.2294,low,0.3434,86.87,39.63,4.79,86.84,39.71,4.77,0.0,11.52
+06067_5km_0103,Sacramento County,Sacramento,06067,5.0,38.651152,-121.448442,12,4,1,county_boundary_clipped_grid,2020-08,1.33,0.2318,low,0.3387,86.88,39.42,4.93,86.84,39.71,4.77,0.0,11.52
+06067_5km_0104,Sacramento County,Sacramento,06067,5.0,38.651152,-121.39109,12,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2333,low,0.3352,86.88,39.29,5.05,86.84,39.71,4.77,0.0,11.52
+06067_5km_0105,Sacramento County,Sacramento,06067,5.0,38.651152,-121.333738,12,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2331,low,0.3334,86.85,39.32,5.11,86.84,39.71,4.77,0.0,11.52
+06067_5km_0106,Sacramento County,Sacramento,06067,5.0,38.651152,-121.276385,12,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2312,low,0.3335,86.79,39.52,5.08,86.84,39.71,4.77,0.0,11.52
+06067_5km_0107,Sacramento County,Sacramento,06067,5.0,38.651152,-121.219033,12,8,1,county_boundary_clipped_grid,2020-08,1.33,0.2278,low,0.3356,86.71,39.86,4.98,86.84,39.71,4.77,0.0,11.52
+06067_5km_0108,Sacramento County,Sacramento,06067,5.0,38.651152,-121.161681,12,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2254,low,0.3383,86.67,40.09,4.87,86.84,39.71,4.77,0.0,11.52
+06067_5km_0109,Sacramento County,Sacramento,06067,5.0,38.660721,-121.112303,12,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2271,low,0.3405,86.76,39.89,4.82,86.84,39.71,4.77,0.0,11.52
+06067_5km_0110,Sacramento County,Sacramento,06067,5.0,38.694931,-121.611927,13,1,1,county_boundary_clipped_grid,2020-08,1.33,0.2361,low,0.3517,87.21,38.88,4.98,86.84,39.71,4.77,0.0,11.52
+06067_5km_0111,Sacramento County,Sacramento,06067,5.0,38.696068,-121.563147,13,2,1,county_boundary_clipped_grid,2020-08,1.33,0.2342,low,0.3494,87.11,39.09,4.93,86.84,39.71,4.77,0.0,11.52
+06067_5km_0112,Sacramento County,Sacramento,06067,5.0,38.696068,-121.505795,13,3,1,county_boundary_clipped_grid,2020-08,1.33,0.232,low,0.3466,87.0,39.34,4.86,86.84,39.71,4.77,0.0,11.52
+06067_5km_0113,Sacramento County,Sacramento,06067,5.0,38.696068,-121.448442,13,4,1,county_boundary_clipped_grid,2020-08,1.33,0.23,low,0.3441,86.9,39.57,4.81,86.84,39.71,4.77,0.0,11.52
+06067_5km_0114,Sacramento County,Sacramento,06067,5.0,38.696068,-121.39109,13,5,1,county_boundary_clipped_grid,2020-08,1.33,0.2284,low,0.3421,86.82,39.75,4.78,86.84,39.71,4.77,0.0,11.52
+06067_5km_0115,Sacramento County,Sacramento,06067,5.0,38.696068,-121.333738,13,6,1,county_boundary_clipped_grid,2020-08,1.33,0.2274,low,0.3408,86.77,39.87,4.81,86.84,39.71,4.77,0.0,11.52
+06067_5km_0116,Sacramento County,Sacramento,06067,5.0,38.696025,-121.276385,13,7,1,county_boundary_clipped_grid,2020-08,1.33,0.2269,low,0.3402,86.75,39.92,4.82,86.84,39.71,4.77,0.0,11.52
+06067_5km_0117,Sacramento County,Sacramento,06067,5.0,38.693935,-121.219033,13,8,1,county_boundary_clipped_grid,2020-08,1.33,0.227,low,0.3403,86.75,39.91,4.82,86.84,39.71,4.77,0.0,11.52
+06067_5km_0118,Sacramento County,Sacramento,06067,5.0,38.689519,-121.161681,13,9,1,county_boundary_clipped_grid,2020-08,1.33,0.2276,low,0.3411,86.78,39.84,4.81,86.84,39.71,4.77,0.0,11.52
+06067_5km_0119,Sacramento County,Sacramento,06067,5.0,38.689622,-121.119225,13,10,1,county_boundary_clipped_grid,2020-08,1.33,0.2286,low,0.3423,86.83,39.73,4.78,86.84,39.71,4.77,0.0,11.52
+06083_5km_0001,Santa Barbara County,Santa Barbara,06083,5.0,34.413158,-119.869181,0,14,1,county_boundary_clipped_grid,2020-08,41.33,0.6078,medium,0.6459,83.44,39.74,5.78,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0002,Santa Barbara County,Santa Barbara,06083,5.0,34.409853,-119.847881,0,15,1,county_boundary_clipped_grid,2020-08,41.33,0.607,medium,0.6475,83.44,39.81,5.76,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0003,Santa Barbara County,Santa Barbara,06083,5.0,34.40928,-119.756197,0,16,1,county_boundary_clipped_grid,2020-08,41.33,0.6063,medium,0.6533,83.5,39.84,5.74,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0004,Santa Barbara County,Santa Barbara,06083,5.0,34.404929,-119.718738,0,17,1,county_boundary_clipped_grid,2020-08,41.33,0.6051,medium,0.6567,83.51,39.94,5.71,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0005,Santa Barbara County,Santa Barbara,06083,5.0,34.410645,-119.688178,0,18,1,county_boundary_clipped_grid,2020-08,41.33,0.6057,medium,0.6583,83.55,39.87,5.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0006,Santa Barbara County,Santa Barbara,06083,5.0,34.416221,-119.583979,0,19,1,county_boundary_clipped_grid,2020-08,41.33,0.6039,medium,0.6657,83.6,40.0,5.68,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0007,Santa Barbara County,Santa Barbara,06083,5.0,34.404166,-119.537206,0,20,1,county_boundary_clipped_grid,2020-08,41.33,0.6001,medium,0.6709,83.55,40.35,5.59,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0008,Santa Barbara County,Santa Barbara,06083,5.0,34.406101,-119.49936,0,21,1,county_boundary_clipped_grid,2020-08,41.33,0.5986,medium,0.6732,83.53,40.5,5.55,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0009,Santa Barbara County,Santa Barbara,06083,5.0,34.402935,-119.460353,0,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5957,medium,0.6761,83.48,40.77,5.47,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0010,Santa Barbara County,Santa Barbara,06083,5.0,34.457256,-120.462914,1,3,1,county_boundary_clipped_grid,2020-08,41.33,0.6119,medium,0.6602,83.78,39.21,5.9,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0011,Santa Barbara County,Santa Barbara,06083,5.0,34.453658,-120.430963,1,4,1,county_boundary_clipped_grid,2020-08,41.33,0.6127,medium,0.6582,83.78,39.14,5.92,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0012,Santa Barbara County,Santa Barbara,06083,5.0,34.4608,-120.371761,1,5,1,county_boundary_clipped_grid,2020-08,41.33,0.615,medium,0.6527,83.77,38.94,5.98,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0013,Santa Barbara County,Santa Barbara,06083,5.0,34.460881,-120.3384,1,6,1,county_boundary_clipped_grid,2020-08,41.33,0.6157,medium,0.65,83.75,38.89,5.99,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0014,Santa Barbara County,Santa Barbara,06083,5.0,34.461234,-120.086156,1,10,1,county_boundary_clipped_grid,2020-08,41.33,0.6168,medium,0.6354,83.58,38.88,6.1,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0015,Santa Barbara County,Santa Barbara,06083,5.0,34.461083,-120.025152,1,11,1,county_boundary_clipped_grid,2020-08,41.33,0.6165,medium,0.6346,83.56,38.92,6.12,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0016,Santa Barbara County,Santa Barbara,06083,5.0,34.454511,-119.980353,1,12,1,county_boundary_clipped_grid,2020-08,41.33,0.6153,medium,0.6359,83.54,39.04,6.06,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0017,Santa Barbara County,Santa Barbara,06083,5.0,34.450931,-119.93556,1,13,1,county_boundary_clipped_grid,2020-08,41.33,0.6144,medium,0.6374,83.53,39.12,6.01,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0018,Santa Barbara County,Santa Barbara,06083,5.0,34.443966,-119.881035,1,14,1,county_boundary_clipped_grid,2020-08,41.33,0.6129,medium,0.6405,83.53,39.24,5.92,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0019,Santa Barbara County,Santa Barbara,06083,5.0,34.440656,-119.82651,1,15,1,county_boundary_clipped_grid,2020-08,41.33,0.612,medium,0.6439,83.55,39.32,5.89,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0020,Santa Barbara County,Santa Barbara,06083,5.0,34.440656,-119.771985,1,16,1,county_boundary_clipped_grid,2020-08,41.33,0.6114,medium,0.6475,83.58,39.36,5.88,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0021,Santa Barbara County,Santa Barbara,06083,5.0,34.440656,-119.71746,1,17,1,county_boundary_clipped_grid,2020-08,41.33,0.6106,medium,0.6516,83.61,39.41,5.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0022,Santa Barbara County,Santa Barbara,06083,5.0,34.440656,-119.662935,1,18,1,county_boundary_clipped_grid,2020-08,41.33,0.6094,medium,0.656,83.64,39.5,5.83,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0023,Santa Barbara County,Santa Barbara,06083,5.0,34.442027,-119.60841,1,19,1,county_boundary_clipped_grid,2020-08,41.33,0.608,medium,0.6602,83.65,39.61,5.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0024,Santa Barbara County,Santa Barbara,06083,5.0,34.440656,-119.553885,1,20,1,county_boundary_clipped_grid,2020-08,41.33,0.6057,medium,0.6647,83.64,39.82,5.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0025,Santa Barbara County,Santa Barbara,06083,5.0,34.440656,-119.49936,1,21,1,county_boundary_clipped_grid,2020-08,41.33,0.6029,medium,0.6687,83.61,40.08,5.66,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0026,Santa Barbara County,Santa Barbara,06083,5.0,34.435676,-119.457331,1,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5997,medium,0.672,83.55,40.39,5.58,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0027,Santa Barbara County,Santa Barbara,06083,5.0,34.486778,-120.470381,2,3,1,county_boundary_clipped_grid,2020-08,41.33,0.6132,medium,0.657,83.77,39.1,5.93,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0028,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-120.426286,2,4,1,county_boundary_clipped_grid,2020-08,41.33,0.6149,medium,0.6538,83.78,38.94,5.98,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0029,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-120.371761,2,5,1,county_boundary_clipped_grid,2020-08,41.33,0.6166,medium,0.6494,83.77,38.8,6.02,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0030,Santa Barbara County,Santa Barbara,06083,5.0,34.489209,-120.317236,2,6,1,county_boundary_clipped_grid,2020-08,41.33,0.6179,medium,0.6446,83.75,38.7,6.05,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0031,Santa Barbara County,Santa Barbara,06083,5.0,34.488603,-120.262711,2,7,1,county_boundary_clipped_grid,2020-08,41.33,0.6187,medium,0.6405,83.71,38.64,6.07,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0032,Santa Barbara County,Santa Barbara,06083,5.0,34.489328,-120.208186,2,8,1,county_boundary_clipped_grid,2020-08,41.33,0.6193,medium,0.6367,83.68,38.61,6.09,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0033,Santa Barbara County,Santa Barbara,06083,5.0,34.490698,-120.153661,2,9,1,county_boundary_clipped_grid,2020-08,41.33,0.6198,medium,0.6335,83.65,38.59,6.19,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0034,Santa Barbara County,Santa Barbara,06083,5.0,34.489814,-120.099136,2,10,1,county_boundary_clipped_grid,2020-08,41.33,0.6198,medium,0.6314,83.62,38.6,6.25,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0035,Santa Barbara County,Santa Barbara,06083,5.0,34.485693,-120.044611,2,11,1,county_boundary_clipped_grid,2020-08,41.33,0.6193,medium,0.6309,83.6,38.65,6.26,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0036,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.990086,2,12,1,county_boundary_clipped_grid,2020-08,41.33,0.6189,medium,0.631,83.58,38.7,6.25,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0037,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.93556,2,13,1,county_boundary_clipped_grid,2020-08,41.33,0.6182,medium,0.6322,83.58,38.76,6.21,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0038,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.881035,2,14,1,county_boundary_clipped_grid,2020-08,41.33,0.6174,medium,0.6344,83.58,38.83,6.13,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0039,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.82651,2,15,1,county_boundary_clipped_grid,2020-08,41.33,0.6165,medium,0.6375,83.6,38.9,6.03,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0040,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.771985,2,16,1,county_boundary_clipped_grid,2020-08,41.33,0.6155,medium,0.6413,83.62,38.97,5.99,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0041,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.71746,2,17,1,county_boundary_clipped_grid,2020-08,41.33,0.6144,medium,0.6456,83.65,39.06,5.96,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0042,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.662935,2,18,1,county_boundary_clipped_grid,2020-08,41.33,0.6129,medium,0.6501,83.66,39.18,5.92,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0043,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.60841,2,19,1,county_boundary_clipped_grid,2020-08,41.33,0.611,medium,0.6547,83.67,39.34,5.87,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0044,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.553885,2,20,1,county_boundary_clipped_grid,2020-08,41.33,0.6087,medium,0.6591,83.66,39.56,5.81,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0045,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.49936,2,21,1,county_boundary_clipped_grid,2020-08,41.33,0.6056,medium,0.6632,83.62,39.84,5.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0046,Santa Barbara County,Santa Barbara,06083,5.0,34.485572,-119.457194,2,22,1,county_boundary_clipped_grid,2020-08,41.33,0.6027,medium,0.666,83.56,40.12,5.65,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0047,Santa Barbara County,Santa Barbara,06083,5.0,34.549062,-120.563797,3,1,1,county_boundary_clipped_grid,2020-08,41.33,0.6058,medium,0.6574,83.54,39.86,5.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0048,Santa Barbara County,Santa Barbara,06083,5.0,34.531336,-120.517197,3,2,1,county_boundary_clipped_grid,2020-08,41.33,0.6101,medium,0.6558,83.66,39.43,5.85,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0049,Santa Barbara County,Santa Barbara,06083,5.0,34.535694,-120.480811,3,3,1,county_boundary_clipped_grid,2020-08,41.33,0.6118,medium,0.6528,83.67,39.27,5.89,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0050,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.426286,3,4,1,county_boundary_clipped_grid,2020-08,41.33,0.6145,medium,0.6491,83.7,39.02,5.96,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0051,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.371761,3,5,1,county_boundary_clipped_grid,2020-08,41.33,0.6164,medium,0.6446,83.7,38.86,6.01,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0052,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.317236,3,6,1,county_boundary_clipped_grid,2020-08,41.33,0.6177,medium,0.6401,83.68,38.75,6.05,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0053,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.262711,3,7,1,county_boundary_clipped_grid,2020-08,41.33,0.6188,medium,0.6358,83.65,38.67,6.1,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0054,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.208186,3,8,1,county_boundary_clipped_grid,2020-08,41.33,0.6197,medium,0.632,83.62,38.61,6.23,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0055,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.153661,3,9,1,county_boundary_clipped_grid,2020-08,41.33,0.6204,medium,0.6287,83.6,38.55,6.34,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0056,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.099136,3,10,1,county_boundary_clipped_grid,2020-08,41.33,0.6211,medium,0.6263,83.59,38.5,6.43,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0057,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-120.044611,3,11,1,county_boundary_clipped_grid,2020-08,41.33,0.6214,medium,0.6249,83.58,38.48,6.47,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0058,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.990086,3,12,1,county_boundary_clipped_grid,2020-08,41.33,0.6206,medium,0.6252,83.55,38.57,6.45,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0059,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.93556,3,13,1,county_boundary_clipped_grid,2020-08,41.33,0.6193,medium,0.6267,83.54,38.68,6.39,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0060,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.881035,3,14,1,county_boundary_clipped_grid,2020-08,41.33,0.618,medium,0.6292,83.53,38.8,6.3,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0061,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.82651,3,15,1,county_boundary_clipped_grid,2020-08,41.33,0.6168,medium,0.6324,83.54,38.9,6.19,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0062,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.771985,3,16,1,county_boundary_clipped_grid,2020-08,41.33,0.6155,medium,0.6364,83.55,39.01,6.05,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0063,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.71746,3,17,1,county_boundary_clipped_grid,2020-08,41.33,0.6141,medium,0.6407,83.57,39.12,5.95,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0064,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.662935,3,18,1,county_boundary_clipped_grid,2020-08,41.33,0.6125,medium,0.6454,83.58,39.25,5.91,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0065,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.60841,3,19,1,county_boundary_clipped_grid,2020-08,41.33,0.6105,medium,0.65,83.59,39.43,5.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0066,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.553885,3,20,1,county_boundary_clipped_grid,2020-08,41.33,0.608,medium,0.6545,83.57,39.66,5.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0067,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.49936,3,21,1,county_boundary_clipped_grid,2020-08,41.33,0.6048,medium,0.6586,83.53,39.95,5.71,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0068,Santa Barbara County,Santa Barbara,06083,5.0,34.530487,-119.45721,3,22,1,county_boundary_clipped_grid,2020-08,41.33,0.6019,medium,0.6614,83.47,40.24,5.63,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0069,Santa Barbara County,Santa Barbara,06083,5.0,34.573,-120.629774,4,0,1,county_boundary_clipped_grid,2020-08,41.33,0.598,medium,0.6594,83.32,40.65,5.52,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0070,Santa Barbara County,Santa Barbara,06083,5.0,34.577473,-120.589861,4,1,1,county_boundary_clipped_grid,2020-08,41.33,0.6008,medium,0.6571,83.38,40.38,5.6,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0071,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.535336,4,2,1,county_boundary_clipped_grid,2020-08,41.33,0.6048,medium,0.654,83.46,39.99,5.71,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0072,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.480811,4,3,1,county_boundary_clipped_grid,2020-08,41.33,0.6079,medium,0.6502,83.5,39.7,5.78,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0073,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.426286,4,4,1,county_boundary_clipped_grid,2020-08,41.33,0.6102,medium,0.646,83.52,39.49,5.85,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0074,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.371761,4,5,1,county_boundary_clipped_grid,2020-08,41.33,0.6119,medium,0.6416,83.51,39.34,5.89,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0075,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.317236,4,6,1,county_boundary_clipped_grid,2020-08,41.33,0.6132,medium,0.6372,83.49,39.24,6.0,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0076,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.262711,4,7,1,county_boundary_clipped_grid,2020-08,41.33,0.6141,medium,0.633,83.46,39.18,6.14,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0077,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.208186,4,8,1,county_boundary_clipped_grid,2020-08,41.33,0.6147,medium,0.6292,83.42,39.14,6.26,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0078,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.153661,4,9,1,county_boundary_clipped_grid,2020-08,41.33,0.6152,medium,0.6261,83.39,39.12,6.37,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0079,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.099136,4,10,1,county_boundary_clipped_grid,2020-08,41.33,0.6154,medium,0.6238,83.37,39.11,6.44,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0080,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-120.044611,4,11,1,county_boundary_clipped_grid,2020-08,41.33,0.6153,medium,0.6227,83.35,39.13,6.47,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0081,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.990086,4,12,1,county_boundary_clipped_grid,2020-08,41.33,0.6148,medium,0.6228,83.34,39.18,6.46,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0082,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.93556,4,13,1,county_boundary_clipped_grid,2020-08,41.33,0.614,medium,0.6241,83.33,39.25,6.41,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0083,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.881035,4,14,1,county_boundary_clipped_grid,2020-08,41.33,0.6131,medium,0.6264,83.33,39.33,6.33,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0084,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.82651,4,15,1,county_boundary_clipped_grid,2020-08,41.33,0.612,medium,0.6296,83.34,39.42,6.22,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0085,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.771985,4,16,1,county_boundary_clipped_grid,2020-08,41.33,0.6109,medium,0.6334,83.36,39.5,6.09,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0086,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.71746,4,17,1,county_boundary_clipped_grid,2020-08,41.33,0.6097,medium,0.6377,83.38,39.6,5.94,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0087,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.662935,4,18,1,county_boundary_clipped_grid,2020-08,41.33,0.6082,medium,0.6423,83.4,39.73,5.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0088,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.60841,4,19,1,county_boundary_clipped_grid,2020-08,41.33,0.6062,medium,0.6469,83.4,39.89,5.74,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0089,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.553885,4,20,1,county_boundary_clipped_grid,2020-08,41.33,0.6038,medium,0.6513,83.39,40.11,5.68,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0090,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.49936,4,21,1,county_boundary_clipped_grid,2020-08,41.33,0.6007,medium,0.6554,83.35,40.41,5.59,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0091,Santa Barbara County,Santa Barbara,06083,5.0,34.575403,-119.457226,4,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5978,medium,0.6582,83.3,40.69,5.52,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0092,Santa Barbara County,Santa Barbara,06083,5.0,34.625404,-120.623538,5,0,1,county_boundary_clipped_grid,2020-08,41.33,0.5904,medium,0.6573,83.04,41.46,5.32,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0093,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.589861,5,1,1,county_boundary_clipped_grid,2020-08,41.33,0.594,medium,0.6557,83.14,41.1,5.41,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0094,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.535336,5,2,1,county_boundary_clipped_grid,2020-08,41.33,0.5976,medium,0.6525,83.21,40.75,5.51,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0095,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.480811,5,3,1,county_boundary_clipped_grid,2020-08,41.33,0.6004,medium,0.6488,83.24,40.49,5.58,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0096,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.426286,5,4,1,county_boundary_clipped_grid,2020-08,41.33,0.6024,medium,0.6448,83.25,40.3,5.64,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0097,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.371761,5,5,1,county_boundary_clipped_grid,2020-08,41.33,0.6039,medium,0.6405,83.24,40.18,5.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0098,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.317236,5,6,1,county_boundary_clipped_grid,2020-08,41.33,0.6048,medium,0.6363,83.21,40.12,5.93,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0099,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.262711,5,7,1,county_boundary_clipped_grid,2020-08,41.33,0.6053,medium,0.6323,83.17,40.09,6.06,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0100,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.208186,5,8,1,county_boundary_clipped_grid,2020-08,41.33,0.6056,medium,0.6287,83.12,40.09,6.18,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0101,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.153661,5,9,1,county_boundary_clipped_grid,2020-08,41.33,0.6056,medium,0.6258,83.08,40.11,6.27,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0102,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.099136,5,10,1,county_boundary_clipped_grid,2020-08,41.33,0.6054,medium,0.6238,83.05,40.14,6.33,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0103,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-120.044611,5,11,1,county_boundary_clipped_grid,2020-08,41.33,0.6051,medium,0.6228,83.02,40.18,6.36,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0104,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.990086,5,12,1,county_boundary_clipped_grid,2020-08,41.33,0.6048,medium,0.6228,83.01,40.22,6.35,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0105,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.93556,5,13,1,county_boundary_clipped_grid,2020-08,41.33,0.6043,medium,0.6239,83.01,40.26,6.31,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0106,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.881035,5,14,1,county_boundary_clipped_grid,2020-08,41.33,0.6038,medium,0.626,83.03,40.29,6.24,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0107,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.82651,5,15,1,county_boundary_clipped_grid,2020-08,41.33,0.6032,medium,0.6289,83.05,40.33,6.14,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0108,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.771985,5,16,1,county_boundary_clipped_grid,2020-08,41.33,0.6025,medium,0.6326,83.08,40.38,6.02,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0109,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.71746,5,17,1,county_boundary_clipped_grid,2020-08,41.33,0.6016,medium,0.6367,83.11,40.45,5.88,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0110,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.662935,5,18,1,county_boundary_clipped_grid,2020-08,41.33,0.6004,medium,0.6411,83.13,40.54,5.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0111,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.60841,5,19,1,county_boundary_clipped_grid,2020-08,41.33,0.5987,medium,0.6456,83.14,40.68,5.58,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0112,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.553885,5,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5965,medium,0.6499,83.13,40.88,5.48,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0113,Santa Barbara County,Santa Barbara,06083,5.0,34.620319,-119.49936,5,21,1,county_boundary_clipped_grid,2020-08,41.33,0.5936,medium,0.6539,83.1,41.15,5.4,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0114,Santa Barbara County,Santa Barbara,06083,5.0,34.61412,-119.45724,5,22,1,county_boundary_clipped_grid,2020-08,41.33,0.592,medium,0.6568,83.09,41.3,5.36,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0115,Santa Barbara County,Santa Barbara,06083,5.0,34.648366,-120.61838,6,0,1,county_boundary_clipped_grid,2020-08,41.33,0.5862,medium,0.6571,82.91,41.9,5.2,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0116,Santa Barbara County,Santa Barbara,06083,5.0,34.669519,-120.586888,6,1,1,county_boundary_clipped_grid,2020-08,41.33,0.5838,medium,0.6561,82.81,42.16,5.14,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0117,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.535336,6,2,1,county_boundary_clipped_grid,2020-08,41.33,0.5879,medium,0.653,82.9,41.75,5.25,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0118,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.480811,6,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5904,medium,0.6495,82.93,41.51,5.36,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0119,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.426286,6,4,1,county_boundary_clipped_grid,2020-08,41.33,0.5922,medium,0.6456,82.93,41.36,5.5,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0120,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.371761,6,5,1,county_boundary_clipped_grid,2020-08,41.33,0.5933,medium,0.6415,82.91,41.27,5.64,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0121,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.317236,6,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5939,medium,0.6374,82.87,41.24,5.78,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0122,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.262711,6,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5941,medium,0.6336,82.82,41.25,5.9,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0123,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.208186,6,8,1,county_boundary_clipped_grid,2020-08,41.33,0.594,medium,0.6302,82.77,41.28,6.0,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0124,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.153661,6,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5937,medium,0.6274,82.72,41.33,6.08,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0125,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.099136,6,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5934,medium,0.6255,82.68,41.38,6.14,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0126,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-120.044611,6,11,1,county_boundary_clipped_grid,2020-08,41.33,0.593,medium,0.6245,82.66,41.42,6.17,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0127,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.990086,6,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5927,medium,0.6245,82.65,41.46,6.16,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0128,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.93556,6,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5924,medium,0.6255,82.65,41.48,6.13,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0129,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.881035,6,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5922,medium,0.6274,82.67,41.49,6.07,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0130,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.82651,6,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5919,medium,0.6302,82.71,41.5,5.98,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0131,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.771985,6,16,1,county_boundary_clipped_grid,2020-08,41.33,0.5915,medium,0.6337,82.74,41.51,5.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0132,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.71746,6,17,1,county_boundary_clipped_grid,2020-08,41.33,0.591,medium,0.6377,82.78,41.54,5.74,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0133,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.662935,6,18,1,county_boundary_clipped_grid,2020-08,41.33,0.5901,medium,0.6419,82.81,41.61,5.59,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0134,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.60841,6,19,1,county_boundary_clipped_grid,2020-08,41.33,0.5887,medium,0.6463,82.83,41.71,5.44,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0135,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.553885,6,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5868,medium,0.6504,82.83,41.89,5.29,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0136,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.49936,6,21,1,county_boundary_clipped_grid,2020-08,41.33,0.5841,medium,0.6543,82.8,42.13,5.15,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0137,Santa Barbara County,Santa Barbara,06083,5.0,34.665234,-119.457087,6,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5815,medium,0.657,82.75,42.38,5.08,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0138,Santa Barbara County,Santa Barbara,06083,5.0,34.70972,-120.583324,7,1,1,county_boundary_clipped_grid,2020-08,41.33,0.5739,medium,0.6581,82.53,43.16,4.91,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0139,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.535336,7,2,1,county_boundary_clipped_grid,2020-08,41.33,0.5765,medium,0.6555,82.57,42.92,5.02,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0140,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.480811,7,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5787,medium,0.6521,82.59,42.71,5.15,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0141,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.426286,7,4,1,county_boundary_clipped_grid,2020-08,41.33,0.5802,medium,0.6483,82.59,42.58,5.28,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0142,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.371761,7,5,1,county_boundary_clipped_grid,2020-08,41.33,0.581,medium,0.6444,82.56,42.52,5.42,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0143,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.317236,7,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5813,medium,0.6404,82.51,42.52,5.54,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0144,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.262711,7,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5813,medium,0.6367,82.46,42.55,5.66,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0145,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.208186,7,8,1,county_boundary_clipped_grid,2020-08,41.33,0.581,medium,0.6334,82.4,42.61,5.75,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0146,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.153661,7,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5805,medium,0.6308,82.35,42.67,5.83,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0147,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.099136,7,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5801,medium,0.6289,82.31,42.73,5.88,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0148,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-120.044611,7,11,1,county_boundary_clipped_grid,2020-08,41.33,0.5797,medium,0.6279,82.28,42.78,5.91,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0149,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.990086,7,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5794,medium,0.6279,82.27,42.81,5.91,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0150,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.93556,7,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5792,medium,0.6289,82.28,42.82,5.88,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0151,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.881035,7,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5791,medium,0.6307,82.3,42.82,5.82,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0152,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.82651,7,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5791,medium,0.6334,82.34,42.8,5.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0153,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.771985,7,16,1,county_boundary_clipped_grid,2020-08,41.33,0.5789,medium,0.6368,82.38,42.79,5.63,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0154,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.71746,7,17,1,county_boundary_clipped_grid,2020-08,41.33,0.5786,medium,0.6406,82.43,42.8,5.51,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0155,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.662935,7,18,1,county_boundary_clipped_grid,2020-08,41.33,0.578,medium,0.6447,82.47,42.83,5.37,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0156,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.60841,7,19,1,county_boundary_clipped_grid,2020-08,41.33,0.5769,medium,0.6489,82.49,42.91,5.23,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0157,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.553885,7,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5753,medium,0.6529,82.5,43.06,5.09,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0158,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.49936,7,21,1,county_boundary_clipped_grid,2020-08,41.33,0.5729,medium,0.6567,82.47,43.27,4.95,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0159,Santa Barbara County,Santa Barbara,06083,5.0,34.71015,-119.456883,7,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5705,medium,0.6592,82.43,43.5,4.84,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0160,Santa Barbara County,Santa Barbara,06083,5.0,34.754576,-120.625883,8,0,1,county_boundary_clipped_grid,2020-08,41.33,0.5663,medium,0.6606,82.32,43.94,4.75,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0161,Santa Barbara County,Santa Barbara,06083,5.0,34.755641,-120.589861,8,1,1,county_boundary_clipped_grid,2020-08,41.33,0.566,medium,0.6603,82.3,43.96,4.76,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0162,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.535336,8,2,1,county_boundary_clipped_grid,2020-08,41.33,0.5653,medium,0.6593,82.26,44.05,4.78,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0163,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.480811,8,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5659,medium,0.6568,82.25,44.01,4.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0164,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.426286,8,4,1,county_boundary_clipped_grid,2020-08,41.33,0.5671,medium,0.6531,82.23,43.9,4.99,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0165,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.371761,8,5,1,county_boundary_clipped_grid,2020-08,41.33,0.5677,medium,0.6493,82.2,43.87,5.12,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0166,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.317236,8,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5678,medium,0.6454,82.15,43.89,5.24,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0167,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.262711,8,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5675,medium,0.6418,82.09,43.94,5.34,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0168,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.208186,8,8,1,county_boundary_clipped_grid,2020-08,41.33,0.567,medium,0.6386,82.03,44.01,5.44,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0169,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.153661,8,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5665,medium,0.636,81.97,44.09,5.51,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0170,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.099136,8,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5659,medium,0.6342,81.93,44.16,5.56,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0171,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-120.044611,8,11,1,county_boundary_clipped_grid,2020-08,41.33,0.5655,medium,0.6332,81.9,44.21,5.59,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0172,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.990086,8,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5652,medium,0.6332,81.89,44.24,5.59,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0173,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.93556,8,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5651,medium,0.6341,81.9,44.24,5.56,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0174,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.881035,8,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5652,medium,0.6359,81.93,44.22,5.5,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0175,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.82651,8,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5653,medium,0.6385,81.97,44.2,5.42,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0176,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.771985,8,16,1,county_boundary_clipped_grid,2020-08,41.33,0.5654,medium,0.6418,82.02,44.16,5.32,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0177,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.71746,8,17,1,county_boundary_clipped_grid,2020-08,41.33,0.5653,medium,0.6455,82.07,44.15,5.2,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0178,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.662935,8,18,1,county_boundary_clipped_grid,2020-08,41.33,0.5649,medium,0.6495,82.11,44.16,5.08,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0179,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.60841,8,19,1,county_boundary_clipped_grid,2020-08,41.33,0.564,medium,0.6536,82.14,44.22,4.94,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0180,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.553885,8,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5634,medium,0.6571,82.17,44.25,4.83,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0181,Santa Barbara County,Santa Barbara,06083,5.0,34.755065,-119.49936,8,21,1,county_boundary_clipped_grid,2020-08,41.33,0.5649,medium,0.6589,82.25,44.09,4.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0182,Santa Barbara County,Santa Barbara,06083,5.0,34.755201,-119.456957,8,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5657,medium,0.6599,82.29,44.0,4.76,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0183,Santa Barbara County,Santa Barbara,06083,5.0,34.80381,-120.618684,9,0,1,county_boundary_clipped_grid,2020-08,41.33,0.5662,medium,0.6605,82.31,43.95,4.75,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0184,Santa Barbara County,Santa Barbara,06083,5.0,34.796652,-120.589861,9,1,1,county_boundary_clipped_grid,2020-08,41.33,0.5659,medium,0.6602,82.3,43.97,4.76,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0185,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.535336,9,2,1,county_boundary_clipped_grid,2020-08,41.33,0.5652,medium,0.6592,82.26,44.06,4.78,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0186,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.480811,9,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5639,medium,0.6576,82.19,44.21,4.82,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0187,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.426286,9,4,1,county_boundary_clipped_grid,2020-08,41.33,0.5621,medium,0.6554,82.11,44.4,4.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0188,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.371761,9,5,1,county_boundary_clipped_grid,2020-08,41.33,0.5601,medium,0.6529,82.01,44.63,4.92,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0189,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.317236,9,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5579,medium,0.6502,81.9,44.87,4.98,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0190,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.262711,9,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5558,medium,0.6475,81.79,45.11,5.04,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0191,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.208186,9,8,1,county_boundary_clipped_grid,2020-08,41.33,0.5538,medium,0.6451,81.69,45.33,5.09,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0192,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.153661,9,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5522,medium,0.643,81.61,45.52,5.14,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0193,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.099136,9,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5513,medium,0.6413,81.56,45.62,5.18,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0194,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-120.044611,9,11,1,county_boundary_clipped_grid,2020-08,41.33,0.5509,medium,0.6404,81.53,45.68,5.2,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0195,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.990086,9,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5506,medium,0.6403,81.52,45.7,5.2,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0196,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.93556,9,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5507,medium,0.6412,81.54,45.69,5.18,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0197,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.881035,9,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5518,medium,0.6425,81.59,45.57,5.15,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0198,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.82651,9,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5533,medium,0.6444,81.67,45.4,5.11,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0199,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.771985,9,16,1,county_boundary_clipped_grid,2020-08,41.33,0.5552,medium,0.6467,81.76,45.18,5.05,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0200,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.71746,9,17,1,county_boundary_clipped_grid,2020-08,41.33,0.5573,medium,0.6494,81.87,44.95,5.0,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0201,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.662935,9,18,1,county_boundary_clipped_grid,2020-08,41.33,0.5594,medium,0.6521,81.97,44.7,4.94,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0202,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.60841,9,19,1,county_boundary_clipped_grid,2020-08,41.33,0.5615,medium,0.6547,82.08,44.47,4.88,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0203,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.553885,9,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5634,medium,0.657,82.17,44.26,4.83,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0204,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.49936,9,21,1,county_boundary_clipped_grid,2020-08,41.33,0.5648,medium,0.6588,82.24,44.1,4.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0205,Santa Barbara County,Santa Barbara,06083,5.0,34.799981,-119.457199,9,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5656,medium,0.6598,82.28,44.01,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0206,Santa Barbara County,Santa Barbara,06083,5.0,34.866664,-120.617518,10,0,1,county_boundary_clipped_grid,2020-08,41.33,0.5677,medium,0.6624,82.39,43.77,4.71,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0207,Santa Barbara County,Santa Barbara,06083,5.0,34.852248,-120.586767,10,1,1,county_boundary_clipped_grid,2020-08,41.33,0.567,medium,0.6615,82.35,43.85,4.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0208,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.535336,10,2,1,county_boundary_clipped_grid,2020-08,41.33,0.566,medium,0.6603,82.3,43.97,4.76,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0209,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.480811,10,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5647,medium,0.6586,82.24,44.11,4.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0210,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.426286,10,4,1,county_boundary_clipped_grid,2020-08,41.33,0.563,medium,0.6565,82.15,44.31,4.84,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0211,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.371761,10,5,1,county_boundary_clipped_grid,2020-08,41.33,0.5609,medium,0.654,82.05,44.53,4.9,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0212,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.317236,10,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5588,medium,0.6513,81.94,44.78,4.95,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0213,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.262711,10,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5566,medium,0.6486,81.83,45.02,5.01,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0214,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.208186,10,8,1,county_boundary_clipped_grid,2020-08,41.33,0.5547,medium,0.6461,81.74,45.24,5.07,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0215,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.153661,10,9,1,county_boundary_clipped_grid,2020-08,41.33,0.553,medium,0.6441,81.65,45.43,5.11,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0216,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.099136,10,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5518,medium,0.6425,81.59,45.56,5.15,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0217,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-120.044611,10,11,1,county_boundary_clipped_grid,2020-08,41.33,0.5511,medium,0.6417,81.56,45.64,5.16,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0218,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.990086,10,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5511,medium,0.6416,81.55,45.65,5.17,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0219,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.93556,10,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5515,medium,0.6422,81.58,45.59,5.15,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0220,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.881035,10,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5526,medium,0.6435,81.63,45.47,5.13,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0221,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.82651,10,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5541,medium,0.6454,81.71,45.3,5.08,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0222,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.771985,10,16,1,county_boundary_clipped_grid,2020-08,41.33,0.556,medium,0.6478,81.8,45.09,5.03,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0223,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.71746,10,17,1,county_boundary_clipped_grid,2020-08,41.33,0.5581,medium,0.6504,81.91,44.85,4.97,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0224,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.662935,10,18,1,county_boundary_clipped_grid,2020-08,41.33,0.5603,medium,0.6531,82.02,44.61,4.91,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0225,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.60841,10,19,1,county_boundary_clipped_grid,2020-08,41.33,0.5624,medium,0.6557,82.12,44.37,4.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0226,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.553885,10,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5642,medium,0.658,82.21,44.17,4.81,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0227,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.49936,10,21,1,county_boundary_clipped_grid,2020-08,41.33,0.5656,medium,0.6598,82.28,44.01,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0228,Santa Barbara County,Santa Barbara,06083,5.0,34.844896,-119.457211,10,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5664,medium,0.6608,82.32,43.92,4.74,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0229,Santa Barbara County,Santa Barbara,06083,5.0,34.895214,-120.630106,11,0,1,county_boundary_clipped_grid,2020-08,41.33,0.569,medium,0.664,82.45,43.63,4.74,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0230,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.589861,11,1,1,county_boundary_clipped_grid,2020-08,41.33,0.5685,medium,0.6634,82.43,43.69,4.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0231,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.535336,11,2,1,county_boundary_clipped_grid,2020-08,41.33,0.5677,medium,0.6624,82.39,43.77,4.71,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0232,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.480811,11,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5664,medium,0.6608,82.32,43.92,4.75,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0233,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.426286,11,4,1,county_boundary_clipped_grid,2020-08,41.33,0.5647,medium,0.6586,82.24,44.12,4.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0234,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.371761,11,5,1,county_boundary_clipped_grid,2020-08,41.33,0.5626,medium,0.6561,82.13,44.34,4.85,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0235,Santa Barbara County,Santa Barbara,06083,5.0,34.886463,-120.317236,11,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5603,medium,0.6532,82.02,44.6,4.91,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0236,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.262711,11,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5583,medium,0.6507,81.92,44.83,4.97,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0237,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.208186,11,8,1,county_boundary_clipped_grid,2020-08,41.33,0.5564,medium,0.6482,81.82,45.05,5.02,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0238,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.153661,11,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5547,medium,0.6462,81.74,45.23,5.07,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0239,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.099136,11,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5535,medium,0.6447,81.68,45.37,5.1,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0240,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-120.044611,11,11,1,county_boundary_clipped_grid,2020-08,41.33,0.5528,medium,0.6438,81.64,45.45,5.12,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0241,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.990086,11,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5527,medium,0.6437,81.64,45.46,5.12,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0242,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.93556,11,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5532,medium,0.6443,81.66,45.4,5.11,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0243,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.881035,11,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5543,medium,0.6456,81.72,45.28,5.08,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0244,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.82651,11,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5558,medium,0.6475,81.79,45.11,5.04,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0245,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.771985,11,16,1,county_boundary_clipped_grid,2020-08,41.33,0.5577,medium,0.6499,81.89,44.9,4.98,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0246,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.71746,11,17,1,county_boundary_clipped_grid,2020-08,41.33,0.5598,medium,0.6525,81.99,44.66,4.93,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0247,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.662935,11,18,1,county_boundary_clipped_grid,2020-08,41.33,0.562,medium,0.6552,82.1,44.42,4.87,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0248,Santa Barbara County,Santa Barbara,06083,5.0,34.889812,-119.60841,11,19,1,county_boundary_clipped_grid,2020-08,41.33,0.5641,medium,0.6578,82.2,44.18,4.81,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0249,Santa Barbara County,Santa Barbara,06083,5.0,34.882455,-119.553885,11,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5656,medium,0.6597,82.28,44.02,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0250,Santa Barbara County,Santa Barbara,06083,5.0,34.882415,-119.49936,11,21,1,county_boundary_clipped_grid,2020-08,41.33,0.567,medium,0.6615,82.35,43.85,4.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0251,Santa Barbara County,Santa Barbara,06083,5.0,34.884283,-119.45722,11,22,1,county_boundary_clipped_grid,2020-08,41.33,0.5679,medium,0.6626,82.4,43.75,4.71,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0252,Santa Barbara County,Santa Barbara,06083,5.0,34.945581,-120.638052,12,0,1,county_boundary_clipped_grid,2020-08,41.33,0.5717,medium,0.6675,82.59,43.32,4.82,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0253,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.589861,12,1,1,county_boundary_clipped_grid,2020-08,41.33,0.5709,medium,0.6664,82.55,43.42,4.8,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0254,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.535336,12,2,1,county_boundary_clipped_grid,2020-08,41.33,0.5701,medium,0.6654,82.51,43.51,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0255,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.480811,12,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5688,medium,0.6637,82.44,43.65,4.74,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0256,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.426286,12,4,1,county_boundary_clipped_grid,2020-08,41.33,0.567,medium,0.6616,82.35,43.85,4.73,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0257,Santa Barbara County,Santa Barbara,06083,5.0,34.936964,-120.373894,12,5,1,county_boundary_clipped_grid,2020-08,41.33,0.5652,medium,0.6593,82.26,44.05,4.78,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0258,Santa Barbara County,Santa Barbara,06083,5.0,34.919045,-120.334597,12,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5627,medium,0.6561,82.13,44.34,4.85,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0259,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.262711,12,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5607,medium,0.6537,82.04,44.56,4.9,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0260,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.208186,12,8,1,county_boundary_clipped_grid,2020-08,41.33,0.5587,medium,0.6512,81.94,44.78,4.96,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0261,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.153661,12,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5571,medium,0.6491,81.86,44.97,5.0,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0262,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.099136,12,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5559,medium,0.6476,81.8,45.1,5.03,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0263,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-120.044611,12,11,1,county_boundary_clipped_grid,2020-08,41.33,0.5552,medium,0.6468,81.76,45.18,5.05,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0264,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-119.990086,12,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5551,medium,0.6467,81.76,45.19,5.06,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0265,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-119.93556,12,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5556,medium,0.6473,81.78,45.13,5.04,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0266,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-119.881035,12,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5567,medium,0.6486,81.84,45.02,5.01,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0267,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-119.82651,12,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5582,medium,0.6505,81.91,44.84,4.97,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0268,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-119.771985,12,16,1,county_boundary_clipped_grid,2020-08,41.33,0.5601,medium,0.6529,82.01,44.63,4.92,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0269,Santa Barbara County,Santa Barbara,06083,5.0,34.934727,-119.71746,12,17,1,county_boundary_clipped_grid,2020-08,41.33,0.5622,medium,0.6555,82.11,44.4,4.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0270,Santa Barbara County,Santa Barbara,06083,5.0,34.932922,-119.662935,12,18,1,county_boundary_clipped_grid,2020-08,41.33,0.5642,medium,0.6581,82.21,44.16,4.8,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0271,Santa Barbara County,Santa Barbara,06083,5.0,34.929781,-119.611238,12,19,1,county_boundary_clipped_grid,2020-08,41.33,0.566,medium,0.6603,82.3,43.96,4.76,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0272,Santa Barbara County,Santa Barbara,06083,5.0,34.918325,-119.575903,12,20,1,county_boundary_clipped_grid,2020-08,41.33,0.5666,medium,0.6611,82.33,43.89,4.74,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0273,Santa Barbara County,Santa Barbara,06083,5.0,34.970121,-120.647636,13,0,1,county_boundary_clipped_grid,2020-08,41.33,0.5733,medium,0.6694,82.67,43.15,4.86,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0274,Santa Barbara County,Santa Barbara,06083,5.0,34.969246,-120.573113,13,1,1,county_boundary_clipped_grid,2020-08,41.33,0.5728,medium,0.6688,82.64,43.2,4.85,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0275,Santa Barbara County,Santa Barbara,06083,5.0,34.965533,-120.535336,13,2,1,county_boundary_clipped_grid,2020-08,41.33,0.572,medium,0.6678,82.6,43.29,4.83,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0276,Santa Barbara County,Santa Barbara,06083,5.0,34.973188,-120.480811,13,3,1,county_boundary_clipped_grid,2020-08,41.33,0.5712,medium,0.6667,82.56,43.38,4.81,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0277,Santa Barbara County,Santa Barbara,06083,5.0,34.977602,-120.436055,13,4,1,county_boundary_clipped_grid,2020-08,41.33,0.5701,medium,0.6654,82.51,43.51,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0278,Santa Barbara County,Santa Barbara,06083,5.0,34.960245,-120.392328,13,5,1,county_boundary_clipped_grid,2020-08,41.33,0.5674,medium,0.662,82.37,43.81,4.72,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0279,Santa Barbara County,Santa Barbara,06083,5.0,34.977663,-120.302318,13,6,1,county_boundary_clipped_grid,2020-08,41.33,0.565,medium,0.659,82.25,44.08,4.78,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0280,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-120.262711,13,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5635,medium,0.6572,82.18,44.24,4.82,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0281,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-120.208186,13,8,1,county_boundary_clipped_grid,2020-08,41.33,0.5616,medium,0.6547,82.08,44.46,4.88,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0282,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-120.153661,13,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5599,medium,0.6527,82.0,44.65,4.92,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0283,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-120.099136,13,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5587,medium,0.6512,81.94,44.78,4.96,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0284,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-120.044611,13,11,1,county_boundary_clipped_grid,2020-08,41.33,0.558,medium,0.6503,81.9,44.86,4.98,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0285,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-119.990086,13,12,1,county_boundary_clipped_grid,2020-08,41.33,0.558,medium,0.6502,81.9,44.87,4.98,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0286,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-119.93556,13,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5584,medium,0.6508,81.92,44.81,4.96,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0287,Santa Barbara County,Santa Barbara,06083,5.0,34.979643,-119.881035,13,14,1,county_boundary_clipped_grid,2020-08,41.33,0.5595,medium,0.6521,81.98,44.7,4.94,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0288,Santa Barbara County,Santa Barbara,06083,5.0,34.976163,-119.82651,13,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5608,medium,0.6538,82.04,44.55,4.9,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0289,Santa Barbara County,Santa Barbara,06083,5.0,34.981198,-119.78009,13,16,1,county_boundary_clipped_grid,2020-08,41.33,0.5627,medium,0.6562,82.14,44.34,4.85,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0290,Santa Barbara County,Santa Barbara,06083,5.0,34.964431,-119.71746,13,17,1,county_boundary_clipped_grid,2020-08,41.33,0.564,medium,0.6578,82.2,44.19,4.81,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0291,Santa Barbara County,Santa Barbara,06083,5.0,34.967788,-119.676425,13,18,1,county_boundary_clipped_grid,2020-08,41.33,0.5659,medium,0.6601,82.3,43.98,4.76,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0292,Santa Barbara County,Santa Barbara,06083,5.0,35.012285,-120.321958,14,6,1,county_boundary_clipped_grid,2020-08,41.33,0.5681,medium,0.6628,82.41,43.73,4.72,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0293,Santa Barbara County,Santa Barbara,06083,5.0,35.013455,-120.256526,14,7,1,county_boundary_clipped_grid,2020-08,41.33,0.5656,medium,0.6597,82.28,44.01,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0294,Santa Barbara County,Santa Barbara,06083,5.0,35.011605,-120.208186,14,8,1,county_boundary_clipped_grid,2020-08,41.33,0.5637,medium,0.6574,82.19,44.22,4.82,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0295,Santa Barbara County,Santa Barbara,06083,5.0,35.020441,-120.153661,14,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5627,medium,0.6561,82.13,44.34,4.85,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0296,Santa Barbara County,Santa Barbara,06083,5.0,35.024559,-120.099136,14,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5617,medium,0.6549,82.09,44.45,4.87,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0297,Santa Barbara County,Santa Barbara,06083,5.0,35.024559,-120.044611,14,11,1,county_boundary_clipped_grid,2020-08,41.33,0.561,medium,0.6541,82.05,44.52,4.89,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0298,Santa Barbara County,Santa Barbara,06083,5.0,35.024559,-119.990086,14,12,1,county_boundary_clipped_grid,2020-08,41.33,0.561,medium,0.654,82.05,44.53,4.9,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0299,Santa Barbara County,Santa Barbara,06083,5.0,35.023241,-119.93556,14,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5614,medium,0.6545,82.07,44.49,4.88,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0300,Santa Barbara County,Santa Barbara,06083,5.0,35.016525,-119.881035,14,14,1,county_boundary_clipped_grid,2020-08,41.33,0.562,medium,0.6552,82.1,44.42,4.87,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0301,Santa Barbara County,Santa Barbara,06083,5.0,35.023213,-119.851372,14,15,1,county_boundary_clipped_grid,2020-08,41.33,0.5632,medium,0.6568,82.16,44.28,4.83,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0302,Santa Barbara County,Santa Barbara,06083,5.0,35.051702,-120.181915,15,8,1,county_boundary_clipped_grid,2020-08,41.33,0.5655,medium,0.6597,82.28,44.02,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0303,Santa Barbara County,Santa Barbara,06083,5.0,35.064697,-120.150691,15,9,1,county_boundary_clipped_grid,2020-08,41.33,0.5654,medium,0.6596,82.27,44.03,4.77,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0304,Santa Barbara County,Santa Barbara,06083,5.0,35.069474,-120.099136,15,10,1,county_boundary_clipped_grid,2020-08,41.33,0.5646,medium,0.6585,82.23,44.12,4.79,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0305,Santa Barbara County,Santa Barbara,06083,5.0,35.064461,-120.044611,15,11,1,county_boundary_clipped_grid,2020-08,41.33,0.5636,medium,0.6573,82.18,44.23,4.82,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0306,Santa Barbara County,Santa Barbara,06083,5.0,35.065736,-120.003108,15,12,1,county_boundary_clipped_grid,2020-08,41.33,0.5636,medium,0.6573,82.18,44.24,4.82,82.39,43.77,4.71,0.0032,11.28
+06083_5km_0307,Santa Barbara County,Santa Barbara,06083,5.0,35.051708,-119.941468,15,13,1,county_boundary_clipped_grid,2020-08,41.33,0.5631,medium,0.6567,82.16,44.29,4.83,82.39,43.77,4.71,0.0032,11.28
+06089_5km_0001,Shasta County,Shasta,06089,5.0,40.30863,-123.037177,0,0,1,county_boundary_clipped_grid,2020-08,23.33,0.4263,medium,0.7121,88.62,28.29,5.01,88.55,28.45,4.97,0.0,11.56
+06089_5km_0002,Shasta County,Shasta,06089,5.0,40.322718,-122.979841,0,1,1,county_boundary_clipped_grid,2020-08,23.33,0.4256,medium,0.7112,88.59,28.36,4.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0003,Shasta County,Shasta,06089,5.0,40.321183,-122.927156,0,2,1,county_boundary_clipped_grid,2020-08,23.33,0.4238,medium,0.7089,88.5,28.57,5.0,88.55,28.45,4.97,0.0,11.56
+06089_5km_0004,Shasta County,Shasta,06089,5.0,40.329586,-122.655094,0,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4144,medium,0.6973,88.03,29.62,5.25,88.55,28.45,4.97,0.0,11.56
+06089_5km_0005,Shasta County,Shasta,06089,5.0,40.329586,-122.651801,0,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4144,medium,0.6972,88.03,29.63,5.25,88.55,28.45,4.97,0.0,11.56
+06089_5km_0006,Shasta County,Shasta,06089,5.0,40.351275,-123.02672,1,0,1,county_boundary_clipped_grid,2020-08,23.33,0.4286,medium,0.715,88.74,28.02,5.07,88.55,28.45,4.97,0.0,11.56
+06089_5km_0007,Shasta County,Shasta,06089,5.0,40.352748,-122.979841,1,1,1,county_boundary_clipped_grid,2020-08,23.33,0.4275,medium,0.7136,88.68,28.15,5.04,88.55,28.45,4.97,0.0,11.56
+06089_5km_0008,Shasta County,Shasta,06089,5.0,40.354231,-122.920542,1,2,1,county_boundary_clipped_grid,2020-08,23.33,0.4256,medium,0.7112,88.59,28.37,4.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0009,Shasta County,Shasta,06089,5.0,40.362097,-122.861243,1,3,1,county_boundary_clipped_grid,2020-08,23.33,0.4238,medium,0.709,88.5,28.56,5.0,88.55,28.45,4.97,0.0,11.56
+06089_5km_0010,Shasta County,Shasta,06089,5.0,40.367887,-122.801945,1,4,1,county_boundary_clipped_grid,2020-08,23.33,0.4218,medium,0.7065,88.4,28.79,5.05,88.55,28.45,4.97,0.0,11.56
+06089_5km_0011,Shasta County,Shasta,06089,5.0,40.362784,-122.725002,1,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4186,medium,0.7025,88.24,29.15,5.14,88.55,28.45,4.97,0.0,11.56
+06089_5km_0012,Shasta County,Shasta,06089,5.0,40.361684,-122.683347,1,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4172,medium,0.7008,88.17,29.3,5.18,88.55,28.45,4.97,0.0,11.56
+06089_5km_0013,Shasta County,Shasta,06089,5.0,40.352201,-122.628213,1,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4153,medium,0.6983,88.07,29.52,5.23,88.55,28.45,4.97,0.0,11.56
+06089_5km_0014,Shasta County,Shasta,06089,5.0,40.366795,-122.58699,1,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4155,medium,0.6987,88.09,29.49,5.22,88.55,28.45,4.97,0.0,11.56
+06089_5km_0015,Shasta County,Shasta,06089,5.0,40.37395,-122.442275,1,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4162,medium,0.6995,88.12,29.42,5.2,88.55,28.45,4.97,0.0,11.56
+06089_5km_0016,Shasta County,Shasta,06089,5.0,40.373554,-122.398174,1,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4171,medium,0.7006,88.16,29.32,5.18,88.55,28.45,4.97,0.0,11.56
+06089_5km_0017,Shasta County,Shasta,06089,5.0,40.373559,-122.347732,1,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4184,medium,0.7023,88.23,29.17,5.14,88.55,28.45,4.97,0.0,11.56
+06089_5km_0018,Shasta County,Shasta,06089,5.0,40.37926,-123.014061,2,0,1,county_boundary_clipped_grid,2020-08,23.33,0.4302,medium,0.717,88.82,27.85,5.12,88.55,28.45,4.97,0.0,11.56
+06089_5km_0019,Shasta County,Shasta,06089,5.0,40.407033,-122.973985,2,1,1,county_boundary_clipped_grid,2020-08,23.33,0.4309,medium,0.7179,88.85,27.77,5.14,88.55,28.45,4.97,0.0,11.56
+06089_5km_0020,Shasta County,Shasta,06089,5.0,40.397664,-122.920542,2,2,1,county_boundary_clipped_grid,2020-08,23.33,0.4285,medium,0.7148,88.73,28.04,5.07,88.55,28.45,4.97,0.0,11.56
+06089_5km_0021,Shasta County,Shasta,06089,5.0,40.397664,-122.861243,2,3,1,county_boundary_clipped_grid,2020-08,23.33,0.4262,medium,0.712,88.62,28.3,5.01,88.55,28.45,4.97,0.0,11.56
+06089_5km_0022,Shasta County,Shasta,06089,5.0,40.397664,-122.801945,2,4,1,county_boundary_clipped_grid,2020-08,23.33,0.4238,medium,0.709,88.5,28.56,4.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0023,Shasta County,Shasta,06089,5.0,40.397664,-122.742646,2,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4216,medium,0.7062,88.39,28.81,5.06,88.55,28.45,4.97,0.0,11.56
+06089_5km_0024,Shasta County,Shasta,06089,5.0,40.397664,-122.683347,2,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4196,medium,0.7038,88.29,29.03,5.11,88.55,28.45,4.97,0.0,11.56
+06089_5km_0025,Shasta County,Shasta,06089,5.0,40.397664,-122.624048,2,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4182,medium,0.702,88.22,29.19,5.15,88.55,28.45,4.97,0.0,11.56
+06089_5km_0026,Shasta County,Shasta,06089,5.0,40.400106,-122.56475,2,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4175,medium,0.7012,88.18,29.27,5.17,88.55,28.45,4.97,0.0,11.56
+06089_5km_0027,Shasta County,Shasta,06089,5.0,40.406898,-122.505451,2,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4178,medium,0.7015,88.2,29.24,5.16,88.55,28.45,4.97,0.0,11.56
+06089_5km_0028,Shasta County,Shasta,06089,5.0,40.402027,-122.446152,2,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4182,medium,0.7018,88.21,29.2,5.16,88.55,28.45,4.97,0.0,11.56
+06089_5km_0029,Shasta County,Shasta,06089,5.0,40.398274,-122.386853,2,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4216,medium,0.7017,88.32,28.85,5.2,88.55,28.45,4.97,0.0,11.56
+06089_5km_0030,Shasta County,Shasta,06089,5.0,40.399211,-122.327555,2,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4262,medium,0.7025,88.48,28.36,5.22,88.55,28.45,4.97,0.0,11.56
+06089_5km_0031,Shasta County,Shasta,06089,5.0,40.403669,-122.268256,2,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4318,medium,0.704,88.68,27.78,5.24,88.55,28.45,4.97,0.0,11.56
+06089_5km_0032,Shasta County,Shasta,06089,5.0,40.406326,-122.208957,2,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4365,medium,0.706,88.86,27.27,5.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0033,Shasta County,Shasta,06089,5.0,40.412169,-122.149658,2,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4416,medium,0.7082,89.06,26.72,5.42,88.55,28.45,4.97,0.0,11.56
+06089_5km_0034,Shasta County,Shasta,06089,5.0,40.411213,-122.106213,2,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4436,medium,0.71,89.15,26.51,5.47,88.55,28.45,4.97,0.0,11.56
+06089_5km_0035,Shasta County,Shasta,06089,5.0,40.419276,-122.041241,2,17,1,county_boundary_clipped_grid,2020-08,23.33,0.448,medium,0.7122,89.32,26.03,5.59,88.55,28.45,4.97,0.0,11.56
+06089_5km_0036,Shasta County,Shasta,06089,5.0,40.417872,-121.946436,2,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4487,medium,0.7149,89.38,25.94,5.61,88.55,28.45,4.97,0.0,11.56
+06089_5km_0037,Shasta County,Shasta,06089,5.0,40.417023,-121.937729,2,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4484,medium,0.715,89.38,25.97,5.61,88.55,28.45,4.97,0.0,11.56
+06089_5km_0038,Shasta County,Shasta,06089,5.0,40.422611,-122.962624,3,1,1,county_boundary_clipped_grid,2020-08,23.33,0.4316,medium,0.7187,88.89,27.69,5.15,88.55,28.45,4.97,0.0,11.56
+06089_5km_0039,Shasta County,Shasta,06089,5.0,40.438032,-122.912546,3,2,1,county_boundary_clipped_grid,2020-08,23.33,0.4308,medium,0.7178,88.85,27.77,5.13,88.55,28.45,4.97,0.0,11.56
+06089_5km_0040,Shasta County,Shasta,06089,5.0,40.442355,-122.861243,3,3,1,county_boundary_clipped_grid,2020-08,23.33,0.4291,medium,0.7156,88.76,27.97,5.09,88.55,28.45,4.97,0.0,11.56
+06089_5km_0041,Shasta County,Shasta,06089,5.0,40.442579,-122.801945,3,4,1,county_boundary_clipped_grid,2020-08,23.33,0.4268,medium,0.7127,88.65,28.23,5.02,88.55,28.45,4.97,0.0,11.56
+06089_5km_0042,Shasta County,Shasta,06089,5.0,40.442579,-122.742646,3,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4245,medium,0.7099,88.53,28.48,4.98,88.55,28.45,4.97,0.0,11.56
+06089_5km_0043,Shasta County,Shasta,06089,5.0,40.442579,-122.683347,3,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4226,medium,0.7075,88.44,28.7,5.03,88.55,28.45,4.97,0.0,11.56
+06089_5km_0044,Shasta County,Shasta,06089,5.0,40.442579,-122.624048,3,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4212,medium,0.7057,88.37,28.86,5.07,88.55,28.45,4.97,0.0,11.56
+06089_5km_0045,Shasta County,Shasta,06089,5.0,40.442579,-122.56475,3,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4203,medium,0.7046,88.32,28.96,5.09,88.55,28.45,4.97,0.0,11.56
+06089_5km_0046,Shasta County,Shasta,06089,5.0,40.442579,-122.505451,3,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4238,medium,0.7026,88.41,28.61,5.19,88.55,28.45,4.97,0.0,11.56
+06089_5km_0047,Shasta County,Shasta,06089,5.0,40.442579,-122.446152,3,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4281,medium,0.7014,88.53,28.17,5.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0048,Shasta County,Shasta,06089,5.0,40.442579,-122.386853,3,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4326,medium,0.7013,88.67,27.71,5.33,88.55,28.45,4.97,0.0,11.56
+06089_5km_0049,Shasta County,Shasta,06089,5.0,40.442579,-122.327555,3,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4372,medium,0.702,88.83,27.23,5.36,88.55,28.45,4.97,0.0,11.56
+06089_5km_0050,Shasta County,Shasta,06089,5.0,40.442579,-122.268256,3,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4417,medium,0.7035,88.99,26.75,5.42,88.55,28.45,4.97,0.0,11.56
+06089_5km_0051,Shasta County,Shasta,06089,5.0,40.442579,-122.208957,3,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4458,medium,0.7055,89.16,26.31,5.53,88.55,28.45,4.97,0.0,11.56
+06089_5km_0052,Shasta County,Shasta,06089,5.0,40.442579,-122.149658,3,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4495,medium,0.7078,89.31,25.91,5.63,88.55,28.45,4.97,0.0,11.56
+06089_5km_0053,Shasta County,Shasta,06089,5.0,40.442579,-122.090359,3,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4523,medium,0.7101,89.43,25.6,5.71,88.55,28.45,4.97,0.0,11.56
+06089_5km_0054,Shasta County,Shasta,06089,5.0,40.445902,-122.031061,3,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4551,medium,0.7121,89.55,25.3,5.78,88.55,28.45,4.97,0.0,11.56
+06089_5km_0055,Shasta County,Shasta,06089,5.0,40.445439,-121.971762,3,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4558,medium,0.7139,89.6,25.22,5.8,88.55,28.45,4.97,0.0,11.56
+06089_5km_0056,Shasta County,Shasta,06089,5.0,40.44925,-121.912463,3,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4563,medium,0.715,89.63,25.15,5.82,88.55,28.45,4.97,0.0,11.56
+06089_5km_0057,Shasta County,Shasta,06089,5.0,40.453817,-121.853164,3,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4558,medium,0.7155,89.62,25.21,5.8,88.55,28.45,4.97,0.0,11.56
+06089_5km_0058,Shasta County,Shasta,06089,5.0,40.455008,-121.793866,3,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4531,medium,0.7155,89.54,25.48,5.73,88.55,28.45,4.97,0.0,11.56
+06089_5km_0059,Shasta County,Shasta,06089,5.0,40.450363,-121.737122,3,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4482,medium,0.7151,89.37,25.99,5.6,88.55,28.45,4.97,0.0,11.56
+06089_5km_0060,Shasta County,Shasta,06089,5.0,40.449092,-121.660324,3,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4413,medium,0.714,89.13,26.71,5.41,88.55,28.45,4.97,0.0,11.56
+06089_5km_0061,Shasta County,Shasta,06089,5.0,40.451711,-121.615969,3,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4376,medium,0.7132,89.0,27.11,5.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0062,Shasta County,Shasta,06089,5.0,40.455417,-121.556671,3,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4321,medium,0.7122,88.81,27.68,5.16,88.55,28.45,4.97,0.0,11.56
+06089_5km_0063,Shasta County,Shasta,06089,5.0,40.455572,-121.497372,3,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4257,medium,0.7114,88.6,28.35,4.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0064,Shasta County,Shasta,06089,5.0,40.455727,-121.438073,3,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4237,medium,0.7089,88.5,28.57,5.0,88.55,28.45,4.97,0.0,11.56
+06089_5km_0065,Shasta County,Shasta,06089,5.0,40.457125,-121.378774,3,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4223,medium,0.7071,88.42,28.73,5.04,88.55,28.45,4.97,0.0,11.56
+06089_5km_0066,Shasta County,Shasta,06089,5.0,40.486712,-122.841691,4,3,1,county_boundary_clipped_grid,2020-08,23.33,0.4309,medium,0.7179,88.85,27.76,5.14,88.55,28.45,4.97,0.0,11.56
+06089_5km_0067,Shasta County,Shasta,06089,5.0,40.485869,-122.801945,4,4,1,county_boundary_clipped_grid,2020-08,23.33,0.4293,medium,0.7159,88.77,27.95,5.09,88.55,28.45,4.97,0.0,11.56
+06089_5km_0068,Shasta County,Shasta,06089,5.0,40.487495,-122.742646,4,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4271,medium,0.7132,88.67,28.19,5.03,88.55,28.45,4.97,0.0,11.56
+06089_5km_0069,Shasta County,Shasta,06089,5.0,40.487495,-122.683347,4,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4252,medium,0.7108,88.57,28.4,4.98,88.55,28.45,4.97,0.0,11.56
+06089_5km_0070,Shasta County,Shasta,06089,5.0,40.487495,-122.624048,4,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4255,medium,0.7081,88.54,28.39,5.04,88.55,28.45,4.97,0.0,11.56
+06089_5km_0071,Shasta County,Shasta,06089,5.0,40.487495,-122.56475,4,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4294,medium,0.7047,88.62,28.01,5.19,88.55,28.45,4.97,0.0,11.56
+06089_5km_0072,Shasta County,Shasta,06089,5.0,40.487495,-122.505451,4,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4336,medium,0.7023,88.72,27.59,5.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0073,Shasta County,Shasta,06089,5.0,40.487495,-122.446152,4,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4381,medium,0.701,88.84,27.14,5.4,88.55,28.45,4.97,0.0,11.56
+06089_5km_0074,Shasta County,Shasta,06089,5.0,40.487495,-122.386853,4,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4428,medium,0.7008,88.99,26.66,5.46,88.55,28.45,4.97,0.0,11.56
+06089_5km_0075,Shasta County,Shasta,06089,5.0,40.487495,-122.327555,4,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4475,medium,0.7014,89.15,26.16,5.58,88.55,28.45,4.97,0.0,11.56
+06089_5km_0076,Shasta County,Shasta,06089,5.0,40.487495,-122.268256,4,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4522,medium,0.7028,89.32,25.67,5.7,88.55,28.45,4.97,0.0,11.56
+06089_5km_0077,Shasta County,Shasta,06089,5.0,40.487495,-122.208957,4,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4565,medium,0.7048,89.49,25.21,5.82,88.55,28.45,4.97,0.0,11.56
+06089_5km_0078,Shasta County,Shasta,06089,5.0,40.487495,-122.149658,4,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4602,medium,0.707,89.64,24.81,5.92,88.55,28.45,4.97,0.0,11.56
+06089_5km_0079,Shasta County,Shasta,06089,5.0,40.487495,-122.090359,4,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4631,medium,0.7093,89.77,24.49,6.0,88.55,28.45,4.97,0.0,11.56
+06089_5km_0080,Shasta County,Shasta,06089,5.0,40.487495,-122.031061,4,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4651,medium,0.7114,89.86,24.27,6.05,88.55,28.45,4.97,0.0,11.56
+06089_5km_0081,Shasta County,Shasta,06089,5.0,40.487495,-121.971762,4,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4658,medium,0.7131,89.91,24.18,6.07,88.55,28.45,4.97,0.0,11.56
+06089_5km_0082,Shasta County,Shasta,06089,5.0,40.487495,-121.912463,4,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4653,medium,0.7143,89.91,24.22,6.06,88.55,28.45,4.97,0.0,11.56
+06089_5km_0083,Shasta County,Shasta,06089,5.0,40.487495,-121.853164,4,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4636,medium,0.715,89.86,24.4,6.01,88.55,28.45,4.97,0.0,11.56
+06089_5km_0084,Shasta County,Shasta,06089,5.0,40.487495,-121.793866,4,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4606,medium,0.7151,89.77,24.71,5.93,88.55,28.45,4.97,0.0,11.56
+06089_5km_0085,Shasta County,Shasta,06089,5.0,40.487495,-121.734567,4,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4564,medium,0.7146,89.63,25.14,5.82,88.55,28.45,4.97,0.0,11.56
+06089_5km_0086,Shasta County,Shasta,06089,5.0,40.487495,-121.675268,4,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4513,medium,0.7139,89.45,25.68,5.68,88.55,28.45,4.97,0.0,11.56
+06089_5km_0087,Shasta County,Shasta,06089,5.0,40.487495,-121.615969,4,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4454,medium,0.7129,89.25,26.3,5.52,88.55,28.45,4.97,0.0,11.56
+06089_5km_0088,Shasta County,Shasta,06089,5.0,40.487495,-121.556671,4,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4389,medium,0.712,89.03,26.98,5.35,88.55,28.45,4.97,0.0,11.56
+06089_5km_0089,Shasta County,Shasta,06089,5.0,40.487495,-121.497372,4,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4321,medium,0.7114,88.8,27.69,5.16,88.55,28.45,4.97,0.0,11.56
+06089_5km_0090,Shasta County,Shasta,06089,5.0,40.487495,-121.438073,4,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4256,medium,0.7112,88.59,28.37,4.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0091,Shasta County,Shasta,06089,5.0,40.487495,-121.378774,4,28,1,county_boundary_clipped_grid,2020-08,23.33,0.424,medium,0.7093,88.51,28.54,4.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0092,Shasta County,Shasta,06089,5.0,40.527653,-122.780109,5,4,1,county_boundary_clipped_grid,2020-08,23.33,0.4304,medium,0.7172,88.83,27.82,5.12,88.55,28.45,4.97,0.0,11.56
+06089_5km_0093,Shasta County,Shasta,06089,5.0,40.53007,-122.742646,5,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4291,medium,0.7156,88.76,27.97,5.09,88.55,28.45,4.97,0.0,11.56
+06089_5km_0094,Shasta County,Shasta,06089,5.0,40.532411,-122.683347,5,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4297,medium,0.7121,88.73,27.93,5.1,88.55,28.45,4.97,0.0,11.56
+06089_5km_0095,Shasta County,Shasta,06089,5.0,40.532411,-122.624048,5,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4336,medium,0.7076,88.79,27.56,5.2,88.55,28.45,4.97,0.0,11.56
+06089_5km_0096,Shasta County,Shasta,06089,5.0,40.532411,-122.56475,5,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4377,medium,0.7041,88.87,27.16,5.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0097,Shasta County,Shasta,06089,5.0,40.532411,-122.505451,5,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4421,medium,0.7017,88.98,26.72,5.43,88.55,28.45,4.97,0.0,11.56
+06089_5km_0098,Shasta County,Shasta,06089,5.0,40.532411,-122.446152,5,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4467,medium,0.7003,89.11,26.25,5.55,88.55,28.45,4.97,0.0,11.56
+06089_5km_0099,Shasta County,Shasta,06089,5.0,40.532411,-122.386853,5,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4516,medium,0.6999,89.26,25.75,5.68,88.55,28.45,4.97,0.0,11.56
+06089_5km_0100,Shasta County,Shasta,06089,5.0,40.532411,-122.327555,5,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4566,medium,0.7005,89.43,25.23,5.82,88.55,28.45,4.97,0.0,11.56
+06089_5km_0101,Shasta County,Shasta,06089,5.0,40.532411,-122.268256,5,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4614,medium,0.7018,89.6,24.72,5.95,88.55,28.45,4.97,0.0,11.56
+06089_5km_0102,Shasta County,Shasta,06089,5.0,40.532411,-122.208957,5,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4658,medium,0.7036,89.77,24.25,6.07,88.55,28.45,4.97,0.0,11.56
+06089_5km_0103,Shasta County,Shasta,06089,5.0,40.532411,-122.149658,5,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4697,medium,0.7058,89.93,23.84,6.17,88.55,28.45,4.97,0.0,11.56
+06089_5km_0104,Shasta County,Shasta,06089,5.0,40.532411,-122.090359,5,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4727,medium,0.7081,90.06,23.51,6.25,88.55,28.45,4.97,0.0,11.56
+06089_5km_0105,Shasta County,Shasta,06089,5.0,40.532411,-122.031061,5,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4746,medium,0.7102,90.15,23.29,6.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0106,Shasta County,Shasta,06089,5.0,40.532411,-121.971762,5,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4754,medium,0.7119,90.2,23.2,6.33,88.55,28.45,4.97,0.0,11.56
+06089_5km_0107,Shasta County,Shasta,06089,5.0,40.532411,-121.912463,5,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4748,medium,0.7132,90.2,23.25,6.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0108,Shasta County,Shasta,06089,5.0,40.532411,-121.853164,5,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4729,medium,0.7139,90.15,23.44,6.26,88.55,28.45,4.97,0.0,11.56
+06089_5km_0109,Shasta County,Shasta,06089,5.0,40.532411,-121.793866,5,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4697,medium,0.7141,90.05,23.77,6.18,88.55,28.45,4.97,0.0,11.56
+06089_5km_0110,Shasta County,Shasta,06089,5.0,40.532411,-121.734567,5,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4654,medium,0.7137,89.9,24.22,6.06,88.55,28.45,4.97,0.0,11.56
+06089_5km_0111,Shasta County,Shasta,06089,5.0,40.532411,-121.675268,5,23,1,county_boundary_clipped_grid,2020-08,23.33,0.46,medium,0.7131,89.72,24.78,5.92,88.55,28.45,4.97,0.0,11.56
+06089_5km_0112,Shasta County,Shasta,06089,5.0,40.532411,-121.615969,5,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4539,medium,0.7122,89.51,25.42,5.75,88.55,28.45,4.97,0.0,11.56
+06089_5km_0113,Shasta County,Shasta,06089,5.0,40.532411,-121.556671,5,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4473,medium,0.7114,89.29,26.12,5.57,88.55,28.45,4.97,0.0,11.56
+06089_5km_0114,Shasta County,Shasta,06089,5.0,40.532411,-121.497372,5,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4403,medium,0.7109,89.05,26.85,5.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0115,Shasta County,Shasta,06089,5.0,40.532411,-121.438073,5,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4332,medium,0.7109,88.83,27.58,5.19,88.55,28.45,4.97,0.0,11.56
+06089_5km_0116,Shasta County,Shasta,06089,5.0,40.532411,-121.378774,5,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4262,medium,0.7117,88.61,28.3,5.01,88.55,28.45,4.97,0.0,11.56
+06089_5km_0117,Shasta County,Shasta,06089,5.0,40.567461,-122.724404,6,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4321,medium,0.715,88.85,27.66,5.17,88.55,28.45,4.97,0.0,11.56
+06089_5km_0118,Shasta County,Shasta,06089,5.0,40.575775,-122.674633,6,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4363,medium,0.7105,88.92,27.26,5.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0119,Shasta County,Shasta,06089,5.0,40.577326,-122.624048,6,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4399,medium,0.7066,88.98,26.91,5.37,88.55,28.45,4.97,0.0,11.56
+06089_5km_0120,Shasta County,Shasta,06089,5.0,40.577326,-122.56475,6,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4442,medium,0.703,89.07,26.49,5.49,88.55,28.45,4.97,0.0,11.56
+06089_5km_0121,Shasta County,Shasta,06089,5.0,40.577326,-122.505451,6,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4488,medium,0.7005,89.18,26.03,5.61,88.55,28.45,4.97,0.0,11.56
+06089_5km_0122,Shasta County,Shasta,06089,5.0,40.577326,-122.446152,6,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4537,medium,0.699,89.32,25.54,5.74,88.55,28.45,4.97,0.0,11.56
+06089_5km_0123,Shasta County,Shasta,06089,5.0,40.577326,-122.386853,6,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4588,medium,0.6985,89.47,25.01,5.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0124,Shasta County,Shasta,06089,5.0,40.577326,-122.327555,6,12,1,county_boundary_clipped_grid,2020-08,23.33,0.464,medium,0.699,89.65,24.48,6.02,88.55,28.45,4.97,0.0,11.56
+06089_5km_0125,Shasta County,Shasta,06089,5.0,40.577326,-122.268256,6,13,1,county_boundary_clipped_grid,2020-08,23.33,0.469,medium,0.7002,89.82,23.95,6.15,88.55,28.45,4.97,0.0,11.56
+06089_5km_0126,Shasta County,Shasta,06089,5.0,40.577326,-122.208957,6,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4736,medium,0.7019,90.0,23.45,6.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0127,Shasta County,Shasta,06089,5.0,40.577326,-122.149658,6,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4776,medium,0.704,90.16,23.02,6.39,88.55,28.45,4.97,0.0,11.56
+06089_5km_0128,Shasta County,Shasta,06089,5.0,40.577326,-122.090359,6,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4807,medium,0.7062,90.29,22.69,6.47,88.55,28.45,4.97,0.0,11.56
+06089_5km_0129,Shasta County,Shasta,06089,5.0,40.577326,-122.031061,6,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4827,medium,0.7083,90.38,22.47,6.52,88.55,28.45,4.97,0.0,11.56
+06089_5km_0130,Shasta County,Shasta,06089,5.0,40.577326,-121.971762,6,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4834,medium,0.7101,90.43,22.39,6.54,88.55,28.45,4.97,0.0,11.56
+06089_5km_0131,Shasta County,Shasta,06089,5.0,40.577326,-121.912463,6,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4827,medium,0.7114,90.43,22.45,6.53,88.55,28.45,4.97,0.0,11.56
+06089_5km_0132,Shasta County,Shasta,06089,5.0,40.577326,-121.853164,6,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4806,medium,0.7122,90.37,22.66,6.47,88.55,28.45,4.97,0.0,11.56
+06089_5km_0133,Shasta County,Shasta,06089,5.0,40.577326,-121.793866,6,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4772,medium,0.7125,90.27,23.0,6.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0134,Shasta County,Shasta,06089,5.0,40.577326,-121.734567,6,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4727,medium,0.7123,90.12,23.48,6.26,88.55,28.45,4.97,0.0,11.56
+06089_5km_0135,Shasta County,Shasta,06089,5.0,40.577326,-121.675268,6,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4671,medium,0.7117,89.93,24.06,6.11,88.55,28.45,4.97,0.0,11.56
+06089_5km_0136,Shasta County,Shasta,06089,5.0,40.577326,-121.615969,6,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4608,medium,0.711,89.72,24.72,5.94,88.55,28.45,4.97,0.0,11.56
+06089_5km_0137,Shasta County,Shasta,06089,5.0,40.577326,-121.556671,6,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4539,medium,0.7103,89.48,25.44,5.75,88.55,28.45,4.97,0.0,11.56
+06089_5km_0138,Shasta County,Shasta,06089,5.0,40.577326,-121.497372,6,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4467,medium,0.7099,89.25,26.18,5.56,88.55,28.45,4.97,0.0,11.56
+06089_5km_0139,Shasta County,Shasta,06089,5.0,40.577326,-121.438073,6,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4395,medium,0.71,89.02,26.93,5.36,88.55,28.45,4.97,0.0,11.56
+06089_5km_0140,Shasta County,Shasta,06089,5.0,40.577326,-121.378774,6,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4323,medium,0.7109,88.8,27.67,5.17,88.55,28.45,4.97,0.0,11.56
+06089_5km_0141,Shasta County,Shasta,06089,5.0,40.640683,-122.723227,7,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4387,medium,0.7123,89.03,27.0,5.34,88.55,28.45,4.97,0.0,11.56
+06089_5km_0142,Shasta County,Shasta,06089,5.0,40.621874,-122.68192,7,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4403,medium,0.7095,89.04,26.85,5.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0143,Shasta County,Shasta,06089,5.0,40.622242,-122.624048,7,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4444,medium,0.705,89.1,26.46,5.49,88.55,28.45,4.97,0.0,11.56
+06089_5km_0144,Shasta County,Shasta,06089,5.0,40.622242,-122.56475,7,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4489,medium,0.7013,89.19,26.02,5.61,88.55,28.45,4.97,0.0,11.56
+06089_5km_0145,Shasta County,Shasta,06089,5.0,40.622242,-122.505451,7,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4536,medium,0.6987,89.31,25.55,5.74,88.55,28.45,4.97,0.0,11.56
+06089_5km_0146,Shasta County,Shasta,06089,5.0,40.622242,-122.446152,7,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4587,medium,0.6971,89.45,25.03,5.87,88.55,28.45,4.97,0.0,11.56
+06089_5km_0147,Shasta County,Shasta,06089,5.0,40.622242,-122.386853,7,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4641,medium,0.6965,89.61,24.48,6.02,88.55,28.45,4.97,0.0,11.56
+06089_5km_0148,Shasta County,Shasta,06089,5.0,40.622242,-122.327555,7,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4695,medium,0.6968,89.79,23.92,6.16,88.55,28.45,4.97,0.0,11.56
+06089_5km_0149,Shasta County,Shasta,06089,5.0,40.622242,-122.268256,7,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4748,medium,0.6979,89.98,23.37,6.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0150,Shasta County,Shasta,06089,5.0,40.622242,-122.208957,7,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4796,medium,0.6995,90.16,22.85,6.44,88.55,28.45,4.97,0.0,11.56
+06089_5km_0151,Shasta County,Shasta,06089,5.0,40.622242,-122.149658,7,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4838,medium,0.7015,90.32,22.4,6.55,88.55,28.45,4.97,0.0,11.56
+06089_5km_0152,Shasta County,Shasta,06089,5.0,40.622242,-122.090359,7,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4871,medium,0.7037,90.46,22.05,6.64,88.55,28.45,4.97,0.0,11.56
+06089_5km_0153,Shasta County,Shasta,06089,5.0,40.622242,-122.031061,7,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4891,medium,0.7057,90.55,21.83,6.69,88.55,28.45,4.97,0.0,11.56
+06089_5km_0154,Shasta County,Shasta,06089,5.0,40.622242,-121.971762,7,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4897,medium,0.7075,90.6,21.75,6.71,88.55,28.45,4.97,0.0,11.56
+06089_5km_0155,Shasta County,Shasta,06089,5.0,40.622242,-121.912463,7,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4888,medium,0.709,90.59,21.83,6.69,88.55,28.45,4.97,0.0,11.56
+06089_5km_0156,Shasta County,Shasta,06089,5.0,40.622242,-121.853164,7,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4865,medium,0.7099,90.53,22.06,6.63,88.55,28.45,4.97,0.0,11.56
+06089_5km_0157,Shasta County,Shasta,06089,5.0,40.622242,-121.793866,7,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4829,medium,0.7103,90.42,22.43,6.53,88.55,28.45,4.97,0.0,11.56
+06089_5km_0158,Shasta County,Shasta,06089,5.0,40.622242,-121.734567,7,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4781,medium,0.7102,90.26,22.93,6.4,88.55,28.45,4.97,0.0,11.56
+06089_5km_0159,Shasta County,Shasta,06089,5.0,40.622242,-121.675268,7,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4723,medium,0.7097,90.07,23.54,6.25,88.55,28.45,4.97,0.0,11.56
+06089_5km_0160,Shasta County,Shasta,06089,5.0,40.622242,-121.615969,7,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4657,medium,0.7091,89.85,24.22,6.07,88.55,28.45,4.97,0.0,11.56
+06089_5km_0161,Shasta County,Shasta,06089,5.0,40.622242,-121.556671,7,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4587,medium,0.7085,89.61,24.96,5.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0162,Shasta County,Shasta,06089,5.0,40.622242,-121.497372,7,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4513,medium,0.7082,89.37,25.72,5.68,88.55,28.45,4.97,0.0,11.56
+06089_5km_0163,Shasta County,Shasta,06089,5.0,40.622242,-121.438073,7,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4439,medium,0.7084,89.13,26.49,5.48,88.55,28.45,4.97,0.0,11.56
+06089_5km_0164,Shasta County,Shasta,06089,5.0,40.622242,-121.378774,7,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4366,medium,0.7093,88.91,27.24,5.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0165,Shasta County,Shasta,06089,5.0,40.665959,-122.725447,8,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4396,medium,0.7113,89.04,26.91,5.37,88.55,28.45,4.97,0.0,11.56
+06089_5km_0166,Shasta County,Shasta,06089,5.0,40.667157,-122.683347,8,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4426,medium,0.7074,89.08,26.63,5.44,88.55,28.45,4.97,0.0,11.56
+06089_5km_0167,Shasta County,Shasta,06089,5.0,40.667157,-122.624048,8,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4469,medium,0.7027,89.15,26.22,5.56,88.55,28.45,4.97,0.0,11.56
+06089_5km_0168,Shasta County,Shasta,06089,5.0,40.667157,-122.56475,8,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4515,medium,0.699,89.24,25.77,5.68,88.55,28.45,4.97,0.0,11.56
+06089_5km_0169,Shasta County,Shasta,06089,5.0,40.667157,-122.505451,8,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4564,medium,0.6962,89.36,25.28,5.81,88.55,28.45,4.97,0.0,11.56
+06089_5km_0170,Shasta County,Shasta,06089,5.0,40.667157,-122.446152,8,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4617,medium,0.6945,89.51,24.74,5.95,88.55,28.45,4.97,0.0,11.56
+06089_5km_0171,Shasta County,Shasta,06089,5.0,40.667157,-122.386853,8,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4672,medium,0.6939,89.68,24.17,6.1,88.55,28.45,4.97,0.0,11.56
+06089_5km_0172,Shasta County,Shasta,06089,5.0,40.667157,-122.327555,8,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4729,medium,0.6941,89.86,23.59,6.25,88.55,28.45,4.97,0.0,11.56
+06089_5km_0173,Shasta County,Shasta,06089,5.0,40.667157,-122.268256,8,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4784,medium,0.695,90.06,23.0,6.4,88.55,28.45,4.97,0.0,11.56
+06089_5km_0174,Shasta County,Shasta,06089,5.0,40.667157,-122.208957,8,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4836,medium,0.6965,90.24,22.46,6.54,88.55,28.45,4.97,0.0,11.56
+06089_5km_0175,Shasta County,Shasta,06089,5.0,40.667157,-122.149658,8,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4881,medium,0.6984,90.41,21.98,6.67,88.55,28.45,4.97,0.0,11.56
+06089_5km_0176,Shasta County,Shasta,06089,5.0,40.667157,-122.090359,8,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4915,medium,0.7004,90.55,21.61,6.76,88.55,28.45,4.97,0.0,11.56
+06089_5km_0177,Shasta County,Shasta,06089,5.0,40.667157,-122.031061,8,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4936,medium,0.7024,90.65,21.38,6.81,88.55,28.45,4.97,0.0,11.56
+06089_5km_0178,Shasta County,Shasta,06089,5.0,40.667157,-121.971762,8,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4941,medium,0.7043,90.69,21.32,6.83,88.55,28.45,4.97,0.0,11.56
+06089_5km_0179,Shasta County,Shasta,06089,5.0,40.667157,-121.912463,8,19,1,county_boundary_clipped_grid,2020-08,23.33,0.493,medium,0.7059,90.68,21.42,6.8,88.55,28.45,4.97,0.0,11.56
+06089_5km_0180,Shasta County,Shasta,06089,5.0,40.667157,-121.853164,8,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4904,medium,0.7069,90.61,21.68,6.73,88.55,28.45,4.97,0.0,11.56
+06089_5km_0181,Shasta County,Shasta,06089,5.0,40.667157,-121.793866,8,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4865,medium,0.7075,90.49,22.08,6.63,88.55,28.45,4.97,0.0,11.56
+06089_5km_0182,Shasta County,Shasta,06089,5.0,40.667157,-121.734567,8,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4814,medium,0.7075,90.33,22.61,6.49,88.55,28.45,4.97,0.0,11.56
+06089_5km_0183,Shasta County,Shasta,06089,5.0,40.667157,-121.675268,8,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4754,medium,0.7071,90.13,23.23,6.33,88.55,28.45,4.97,0.0,11.56
+06089_5km_0184,Shasta County,Shasta,06089,5.0,40.667157,-121.615969,8,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4686,medium,0.7066,89.91,23.94,6.15,88.55,28.45,4.97,0.0,11.56
+06089_5km_0185,Shasta County,Shasta,06089,5.0,40.667157,-121.556671,8,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4614,medium,0.7061,89.66,24.69,5.95,88.55,28.45,4.97,0.0,11.56
+06089_5km_0186,Shasta County,Shasta,06089,5.0,40.667157,-121.497372,8,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4538,medium,0.7059,89.42,25.47,5.75,88.55,28.45,4.97,0.0,11.56
+06089_5km_0187,Shasta County,Shasta,06089,5.0,40.667157,-121.438073,8,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4463,medium,0.7062,89.18,26.26,5.54,88.55,28.45,4.97,0.0,11.56
+06089_5km_0188,Shasta County,Shasta,06089,5.0,40.667157,-121.378774,8,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4389,medium,0.7072,88.96,27.02,5.34,88.55,28.45,4.97,0.0,11.56
+06089_5km_0189,Shasta County,Shasta,06089,5.0,40.701896,-122.716703,9,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4407,medium,0.7083,89.03,26.82,5.39,88.55,28.45,4.97,0.0,11.56
+06089_5km_0190,Shasta County,Shasta,06089,5.0,40.717669,-122.681598,9,6,1,county_boundary_clipped_grid,2020-08,23.33,0.443,medium,0.7041,89.04,26.61,5.45,88.55,28.45,4.97,0.0,11.56
+06089_5km_0191,Shasta County,Shasta,06089,5.0,40.712073,-122.624048,9,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4473,medium,0.6999,89.12,26.19,5.57,88.55,28.45,4.97,0.0,11.56
+06089_5km_0192,Shasta County,Shasta,06089,5.0,40.712073,-122.56475,9,8,1,county_boundary_clipped_grid,2020-08,23.33,0.452,medium,0.6961,89.22,25.73,5.71,88.55,28.45,4.97,0.0,11.56
+06089_5km_0193,Shasta County,Shasta,06089,5.0,40.712073,-122.505451,9,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4571,medium,0.6933,89.34,25.23,5.85,88.55,28.45,4.97,0.0,11.56
+06089_5km_0194,Shasta County,Shasta,06089,5.0,40.712073,-122.446152,9,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4625,medium,0.6916,89.49,24.68,5.97,88.55,28.45,4.97,0.0,11.56
+06089_5km_0195,Shasta County,Shasta,06089,5.0,40.712073,-122.386853,9,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4682,medium,0.6908,89.67,24.1,6.13,88.55,28.45,4.97,0.0,11.56
+06089_5km_0196,Shasta County,Shasta,06089,5.0,40.712073,-122.327555,9,12,1,county_boundary_clipped_grid,2020-08,23.33,0.474,medium,0.6909,89.85,23.49,6.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0197,Shasta County,Shasta,06089,5.0,40.712073,-122.268256,9,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4798,medium,0.6917,90.05,22.88,6.44,88.55,28.45,4.97,0.0,11.56
+06089_5km_0198,Shasta County,Shasta,06089,5.0,40.712073,-122.208957,9,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4853,medium,0.6931,90.25,22.31,6.59,88.55,28.45,4.97,0.0,11.56
+06089_5km_0199,Shasta County,Shasta,06089,5.0,40.712073,-122.149658,9,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4902,medium,0.6948,90.43,21.79,6.72,88.55,28.45,4.97,0.0,11.56
+06089_5km_0200,Shasta County,Shasta,06089,5.0,40.712073,-122.090359,9,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4939,medium,0.6966,90.58,21.39,6.82,88.55,28.45,4.97,0.0,11.56
+06089_5km_0201,Shasta County,Shasta,06089,5.0,40.712073,-122.031061,9,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4961,medium,0.6986,90.67,21.15,6.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0202,Shasta County,Shasta,06089,5.0,40.712073,-121.971762,9,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4963,medium,0.7006,90.71,21.11,6.89,88.55,28.45,4.97,0.0,11.56
+06089_5km_0203,Shasta County,Shasta,06089,5.0,40.712073,-121.912463,9,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4949,medium,0.7023,90.69,21.25,6.85,88.55,28.45,4.97,0.0,11.56
+06089_5km_0204,Shasta County,Shasta,06089,5.0,40.712073,-121.853164,9,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4919,medium,0.7036,90.61,21.55,6.77,88.55,28.45,4.97,0.0,11.56
+06089_5km_0205,Shasta County,Shasta,06089,5.0,40.712073,-121.793866,9,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4877,medium,0.7042,90.49,21.98,6.66,88.55,28.45,4.97,0.0,11.56
+06089_5km_0206,Shasta County,Shasta,06089,5.0,40.712073,-121.734567,9,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4825,medium,0.7044,90.32,22.52,6.52,88.55,28.45,4.97,0.0,11.56
+06089_5km_0207,Shasta County,Shasta,06089,5.0,40.712073,-121.675268,9,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4763,medium,0.7041,90.11,23.17,6.35,88.55,28.45,4.97,0.0,11.56
+06089_5km_0208,Shasta County,Shasta,06089,5.0,40.712073,-121.615969,9,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4694,medium,0.7037,89.89,23.88,6.16,88.55,28.45,4.97,0.0,11.56
+06089_5km_0209,Shasta County,Shasta,06089,5.0,40.712073,-121.556671,9,25,1,county_boundary_clipped_grid,2020-08,23.33,0.462,medium,0.7032,89.64,24.65,5.96,88.55,28.45,4.97,0.0,11.56
+06089_5km_0210,Shasta County,Shasta,06089,5.0,40.712073,-121.497372,9,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4543,medium,0.703,89.39,25.44,5.76,88.55,28.45,4.97,0.0,11.56
+06089_5km_0211,Shasta County,Shasta,06089,5.0,40.712073,-121.438073,9,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4467,medium,0.7034,89.15,26.24,5.55,88.55,28.45,4.97,0.0,11.56
+06089_5km_0212,Shasta County,Shasta,06089,5.0,40.712073,-121.378774,9,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4392,medium,0.7044,88.93,27.0,5.35,88.55,28.45,4.97,0.0,11.56
+06089_5km_0213,Shasta County,Shasta,06089,5.0,40.743693,-122.715826,10,5,1,county_boundary_clipped_grid,2020-08,23.33,0.4397,medium,0.7054,88.96,26.94,5.37,88.55,28.45,4.97,0.0,11.56
+06089_5km_0214,Shasta County,Shasta,06089,5.0,40.754565,-122.678254,10,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4419,medium,0.7013,88.97,26.75,5.44,88.55,28.45,4.97,0.0,11.56
+06089_5km_0215,Shasta County,Shasta,06089,5.0,40.756988,-122.624048,10,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4458,medium,0.6968,89.03,26.37,5.62,88.55,28.45,4.97,0.0,11.56
+06089_5km_0216,Shasta County,Shasta,06089,5.0,40.756988,-122.56475,10,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4505,medium,0.693,89.13,25.91,5.79,88.55,28.45,4.97,0.0,11.56
+06089_5km_0217,Shasta County,Shasta,06089,5.0,40.756988,-122.505451,10,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4556,medium,0.6902,89.25,25.4,5.93,88.55,28.45,4.97,0.0,11.56
+06089_5km_0218,Shasta County,Shasta,06089,5.0,40.756988,-122.446152,10,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4611,medium,0.6884,89.4,24.85,6.05,88.55,28.45,4.97,0.0,11.56
+06089_5km_0219,Shasta County,Shasta,06089,5.0,40.756988,-122.386853,10,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4669,medium,0.6876,89.58,24.25,6.14,88.55,28.45,4.97,0.0,11.56
+06089_5km_0220,Shasta County,Shasta,06089,5.0,40.756988,-122.327555,10,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4728,medium,0.6876,89.77,23.64,6.25,88.55,28.45,4.97,0.0,11.56
+06089_5km_0221,Shasta County,Shasta,06089,5.0,40.756988,-122.268256,10,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4787,medium,0.6884,89.97,23.02,6.41,88.55,28.45,4.97,0.0,11.56
+06089_5km_0222,Shasta County,Shasta,06089,5.0,40.756988,-122.208957,10,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4844,medium,0.6897,90.17,22.43,6.56,88.55,28.45,4.97,0.0,11.56
+06089_5km_0223,Shasta County,Shasta,06089,5.0,40.756988,-122.149658,10,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4895,medium,0.6912,90.36,21.89,6.7,88.55,28.45,4.97,0.0,11.56
+06089_5km_0224,Shasta County,Shasta,06089,5.0,40.756988,-122.090359,10,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4937,medium,0.6929,90.51,21.44,6.81,88.55,28.45,4.97,0.0,11.56
+06089_5km_0225,Shasta County,Shasta,06089,5.0,40.756988,-122.031061,10,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4962,medium,0.6947,90.62,21.17,6.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0226,Shasta County,Shasta,06089,5.0,40.756988,-121.971762,10,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4959,medium,0.697,90.64,21.19,6.87,88.55,28.45,4.97,0.0,11.56
+06089_5km_0227,Shasta County,Shasta,06089,5.0,40.756988,-121.912463,10,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4941,medium,0.6988,90.61,21.36,6.83,88.55,28.45,4.97,0.0,11.56
+06089_5km_0228,Shasta County,Shasta,06089,5.0,40.756988,-121.853164,10,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4909,medium,0.7002,90.53,21.67,6.74,88.55,28.45,4.97,0.0,11.56
+06089_5km_0229,Shasta County,Shasta,06089,5.0,40.756988,-121.793866,10,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4866,medium,0.7009,90.4,22.12,6.63,88.55,28.45,4.97,0.0,11.56
+06089_5km_0230,Shasta County,Shasta,06089,5.0,40.756988,-121.734567,10,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4812,medium,0.7011,90.23,22.67,6.48,88.55,28.45,4.97,0.0,11.56
+06089_5km_0231,Shasta County,Shasta,06089,5.0,40.756988,-121.675268,10,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4749,medium,0.7009,90.03,23.33,6.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0232,Shasta County,Shasta,06089,5.0,40.756988,-121.615969,10,24,1,county_boundary_clipped_grid,2020-08,23.33,0.468,medium,0.7005,89.8,24.05,6.12,88.55,28.45,4.97,0.0,11.56
+06089_5km_0233,Shasta County,Shasta,06089,5.0,40.756988,-121.556671,10,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4605,medium,0.7001,89.55,24.82,5.92,88.55,28.45,4.97,0.0,11.56
+06089_5km_0234,Shasta County,Shasta,06089,5.0,40.756988,-121.497372,10,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4529,medium,0.6999,89.3,25.62,5.72,88.55,28.45,4.97,0.0,11.56
+06089_5km_0235,Shasta County,Shasta,06089,5.0,40.756988,-121.438073,10,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4452,medium,0.7003,89.06,26.41,5.51,88.55,28.45,4.97,0.0,11.56
+06089_5km_0236,Shasta County,Shasta,06089,5.0,40.756988,-121.378774,10,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4376,medium,0.7013,88.83,27.19,5.39,88.55,28.45,4.97,0.0,11.56
+06089_5km_0237,Shasta County,Shasta,06089,5.0,40.802387,-122.656309,11,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4401,medium,0.6961,88.84,26.97,5.58,88.55,28.45,4.97,0.0,11.56
+06089_5km_0238,Shasta County,Shasta,06089,5.0,40.801904,-122.624048,11,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4426,medium,0.6937,88.88,26.73,5.68,88.55,28.45,4.97,0.0,11.56
+06089_5km_0239,Shasta County,Shasta,06089,5.0,40.801904,-122.56475,11,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4473,medium,0.6898,88.98,26.27,5.85,88.55,28.45,4.97,0.0,11.56
+06089_5km_0240,Shasta County,Shasta,06089,5.0,40.801904,-122.505451,11,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4523,medium,0.687,89.1,25.77,5.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0241,Shasta County,Shasta,06089,5.0,40.801904,-122.446152,11,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4578,medium,0.6853,89.25,25.22,6.11,88.55,28.45,4.97,0.0,11.56
+06089_5km_0242,Shasta County,Shasta,06089,5.0,40.801904,-122.386853,11,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4635,medium,0.6845,89.42,24.63,6.2,88.55,28.45,4.97,0.0,11.56
+06089_5km_0243,Shasta County,Shasta,06089,5.0,40.801904,-122.327555,11,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4694,medium,0.6846,89.61,24.02,6.26,88.55,28.45,4.97,0.0,11.56
+06089_5km_0244,Shasta County,Shasta,06089,5.0,40.801904,-122.268256,11,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4752,medium,0.6854,89.81,23.41,6.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0245,Shasta County,Shasta,06089,5.0,40.801904,-122.208957,11,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4807,medium,0.6867,90.01,22.83,6.46,88.55,28.45,4.97,0.0,11.56
+06089_5km_0246,Shasta County,Shasta,06089,5.0,40.801904,-122.149658,11,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4856,medium,0.6884,90.19,22.31,6.59,88.55,28.45,4.97,0.0,11.56
+06089_5km_0247,Shasta County,Shasta,06089,5.0,40.801904,-122.090359,11,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4895,medium,0.6902,90.34,21.9,6.7,88.55,28.45,4.97,0.0,11.56
+06089_5km_0248,Shasta County,Shasta,06089,5.0,40.801904,-122.031061,11,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4916,medium,0.6922,90.44,21.66,6.76,88.55,28.45,4.97,0.0,11.56
+06089_5km_0249,Shasta County,Shasta,06089,5.0,40.801904,-121.971762,11,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4918,medium,0.6942,90.47,21.62,6.76,88.55,28.45,4.97,0.0,11.56
+06089_5km_0250,Shasta County,Shasta,06089,5.0,40.801904,-121.912463,11,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4903,medium,0.696,90.45,21.77,6.72,88.55,28.45,4.97,0.0,11.56
+06089_5km_0251,Shasta County,Shasta,06089,5.0,40.801904,-121.853164,11,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4873,medium,0.6972,90.37,22.07,6.64,88.55,28.45,4.97,0.0,11.56
+06089_5km_0252,Shasta County,Shasta,06089,5.0,40.801904,-121.793866,11,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4831,medium,0.6979,90.25,22.5,6.53,88.55,28.45,4.97,0.0,11.56
+06089_5km_0253,Shasta County,Shasta,06089,5.0,40.801904,-121.734567,11,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4778,medium,0.6981,90.08,23.05,6.39,88.55,28.45,4.97,0.0,11.56
+06089_5km_0254,Shasta County,Shasta,06089,5.0,40.801904,-121.675268,11,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4715,medium,0.6978,89.87,23.7,6.22,88.55,28.45,4.97,0.0,11.56
+06089_5km_0255,Shasta County,Shasta,06089,5.0,40.801904,-121.615969,11,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4646,medium,0.6974,89.64,24.42,6.03,88.55,28.45,4.97,0.0,11.56
+06089_5km_0256,Shasta County,Shasta,06089,5.0,40.801904,-121.556671,11,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4572,medium,0.6969,89.4,25.19,5.83,88.55,28.45,4.97,0.0,11.56
+06089_5km_0257,Shasta County,Shasta,06089,5.0,40.801904,-121.497372,11,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4496,medium,0.6968,89.15,25.98,5.66,88.55,28.45,4.97,0.0,11.56
+06089_5km_0258,Shasta County,Shasta,06089,5.0,40.801904,-121.438073,11,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4419,medium,0.6971,88.91,26.77,5.57,88.55,28.45,4.97,0.0,11.56
+06089_5km_0259,Shasta County,Shasta,06089,5.0,40.801904,-121.378774,11,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4344,medium,0.6981,88.68,27.54,5.45,88.55,28.45,4.97,0.0,11.56
+06089_5km_0260,Shasta County,Shasta,06089,5.0,40.833712,-122.657213,12,6,1,county_boundary_clipped_grid,2020-08,23.33,0.4369,medium,0.6941,88.71,27.31,5.6,88.55,28.45,4.97,0.0,11.56
+06089_5km_0261,Shasta County,Shasta,06089,5.0,40.853164,-122.615723,12,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4377,medium,0.6898,88.67,27.26,5.74,88.55,28.45,4.97,0.0,11.56
+06089_5km_0262,Shasta County,Shasta,06089,5.0,40.846819,-122.56475,12,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4425,medium,0.687,88.78,26.79,5.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0263,Shasta County,Shasta,06089,5.0,40.846819,-122.505451,12,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4474,medium,0.6843,88.9,26.29,6.03,88.55,28.45,4.97,0.0,11.56
+06089_5km_0264,Shasta County,Shasta,06089,5.0,40.846819,-122.446152,12,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4527,medium,0.6826,89.05,25.76,6.14,88.55,28.45,4.97,0.0,11.56
+06089_5km_0265,Shasta County,Shasta,06089,5.0,40.846819,-122.386853,12,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4583,medium,0.6819,89.22,25.18,6.22,88.55,28.45,4.97,0.0,11.56
+06089_5km_0266,Shasta County,Shasta,06089,5.0,40.846819,-122.327555,12,12,1,county_boundary_clipped_grid,2020-08,23.33,0.464,medium,0.6821,89.41,24.59,6.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0267,Shasta County,Shasta,06089,5.0,40.846819,-122.268256,12,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4696,medium,0.683,89.6,24.01,6.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0268,Shasta County,Shasta,06089,5.0,40.846819,-122.208957,12,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4748,medium,0.6845,89.79,23.46,6.33,88.55,28.45,4.97,0.0,11.56
+06089_5km_0269,Shasta County,Shasta,06089,5.0,40.846819,-122.149658,12,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4793,medium,0.6863,89.96,22.97,6.42,88.55,28.45,4.97,0.0,11.56
+06089_5km_0270,Shasta County,Shasta,06089,5.0,40.846819,-122.090359,12,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4828,medium,0.6883,90.1,22.6,6.52,88.55,28.45,4.97,0.0,11.56
+06089_5km_0271,Shasta County,Shasta,06089,5.0,40.846819,-122.031061,12,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4849,medium,0.6903,90.2,22.37,6.57,88.55,28.45,4.97,0.0,11.56
+06089_5km_0272,Shasta County,Shasta,06089,5.0,40.846819,-121.971762,12,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4853,medium,0.6922,90.24,22.31,6.59,88.55,28.45,4.97,0.0,11.56
+06089_5km_0273,Shasta County,Shasta,06089,5.0,40.846819,-121.912463,12,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4842,medium,0.6938,90.22,22.42,6.56,88.55,28.45,4.97,0.0,11.56
+06089_5km_0274,Shasta County,Shasta,06089,5.0,40.846819,-121.853164,12,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4815,medium,0.6949,90.15,22.68,6.49,88.55,28.45,4.97,0.0,11.56
+06089_5km_0275,Shasta County,Shasta,06089,5.0,40.846819,-121.793866,12,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4776,medium,0.6954,90.03,23.09,6.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0276,Shasta County,Shasta,06089,5.0,40.846819,-121.734567,12,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4725,medium,0.6955,89.87,23.62,6.24,88.55,28.45,4.97,0.0,11.56
+06089_5km_0277,Shasta County,Shasta,06089,5.0,40.846819,-121.675268,12,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4664,medium,0.6952,89.67,24.25,6.08,88.55,28.45,4.97,0.0,11.56
+06089_5km_0278,Shasta County,Shasta,06089,5.0,40.846819,-121.615969,12,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4597,medium,0.6946,89.45,24.95,5.9,88.55,28.45,4.97,0.0,11.56
+06089_5km_0279,Shasta County,Shasta,06089,5.0,40.846819,-121.556671,12,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4524,medium,0.6941,89.2,25.71,5.77,88.55,28.45,4.97,0.0,11.56
+06089_5km_0280,Shasta County,Shasta,06089,5.0,40.846819,-121.497372,12,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4448,medium,0.6939,88.96,26.49,5.7,88.55,28.45,4.97,0.0,11.56
+06089_5km_0281,Shasta County,Shasta,06089,5.0,40.846819,-121.438073,12,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4372,medium,0.6942,88.72,27.28,5.6,88.55,28.45,4.97,0.0,11.56
+06089_5km_0282,Shasta County,Shasta,06089,5.0,40.846819,-121.378774,12,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4298,medium,0.6952,88.49,28.04,5.49,88.55,28.45,4.97,0.0,11.56
+06089_5km_0283,Shasta County,Shasta,06089,5.0,40.895934,-122.598857,13,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4333,medium,0.6867,88.48,27.74,5.79,88.55,28.45,4.97,0.0,11.56
+06089_5km_0284,Shasta County,Shasta,06089,5.0,40.891735,-122.56475,13,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4365,medium,0.6848,88.56,27.42,5.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0285,Shasta County,Shasta,06089,5.0,40.891735,-122.505451,13,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4413,medium,0.6822,88.68,26.94,6.02,88.55,28.45,4.97,0.0,11.56
+06089_5km_0286,Shasta County,Shasta,06089,5.0,40.891735,-122.446152,13,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4464,medium,0.6806,88.82,26.42,6.13,88.55,28.45,4.97,0.0,11.56
+06089_5km_0287,Shasta County,Shasta,06089,5.0,40.891735,-122.386853,13,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4518,medium,0.68,88.98,25.87,6.21,88.55,28.45,4.97,0.0,11.56
+06089_5km_0288,Shasta County,Shasta,06089,5.0,40.891735,-122.327555,13,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4572,medium,0.6803,89.16,25.31,6.26,88.55,28.45,4.97,0.0,11.56
+06089_5km_0289,Shasta County,Shasta,06089,5.0,40.891735,-122.268256,13,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4626,medium,0.6813,89.35,24.75,6.29,88.55,28.45,4.97,0.0,11.56
+06089_5km_0290,Shasta County,Shasta,06089,5.0,40.891735,-122.208957,13,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4675,medium,0.683,89.53,24.23,6.29,88.55,28.45,4.97,0.0,11.56
+06089_5km_0291,Shasta County,Shasta,06089,5.0,40.891735,-122.149658,13,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4717,medium,0.6849,89.7,23.77,6.28,88.55,28.45,4.97,0.0,11.56
+06089_5km_0292,Shasta County,Shasta,06089,5.0,40.891735,-122.090359,13,16,1,county_boundary_clipped_grid,2020-08,23.33,0.475,medium,0.687,89.83,23.42,6.31,88.55,28.45,4.97,0.0,11.56
+06089_5km_0293,Shasta County,Shasta,06089,5.0,40.891735,-122.031061,13,17,1,county_boundary_clipped_grid,2020-08,23.33,0.477,medium,0.6891,89.92,23.2,6.36,88.55,28.45,4.97,0.0,11.56
+06089_5km_0294,Shasta County,Shasta,06089,5.0,40.891735,-121.971762,13,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4776,medium,0.6909,89.97,23.12,6.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0295,Shasta County,Shasta,06089,5.0,40.891735,-121.912463,13,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4767,medium,0.6924,89.96,23.21,6.36,88.55,28.45,4.97,0.0,11.56
+06089_5km_0296,Shasta County,Shasta,06089,5.0,40.891735,-121.853164,13,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4743,medium,0.6933,89.9,23.44,6.29,88.55,28.45,4.97,0.0,11.56
+06089_5km_0297,Shasta County,Shasta,06089,5.0,40.891735,-121.793866,13,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4707,medium,0.6937,89.79,23.82,6.19,88.55,28.45,4.97,0.0,11.56
+06089_5km_0298,Shasta County,Shasta,06089,5.0,40.891735,-121.734567,13,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4658,medium,0.6936,89.63,24.32,6.06,88.55,28.45,4.97,0.0,11.56
+06089_5km_0299,Shasta County,Shasta,06089,5.0,40.891735,-121.675268,13,23,1,county_boundary_clipped_grid,2020-08,23.33,0.46,medium,0.6932,89.44,24.93,5.91,88.55,28.45,4.97,0.0,11.56
+06089_5km_0300,Shasta County,Shasta,06089,5.0,40.891735,-121.615969,13,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4534,medium,0.6926,89.22,25.61,5.83,88.55,28.45,4.97,0.0,11.56
+06089_5km_0301,Shasta County,Shasta,06089,5.0,40.891735,-121.556671,13,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4463,medium,0.692,88.98,26.35,5.77,88.55,28.45,4.97,0.0,11.56
+06089_5km_0302,Shasta County,Shasta,06089,5.0,40.891735,-121.497372,13,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4389,medium,0.6917,88.74,27.12,5.7,88.55,28.45,4.97,0.0,11.56
+06089_5km_0303,Shasta County,Shasta,06089,5.0,40.891735,-121.438073,13,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4315,medium,0.6919,88.5,27.89,5.61,88.55,28.45,4.97,0.0,11.56
+06089_5km_0304,Shasta County,Shasta,06089,5.0,40.891735,-121.378774,13,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4241,medium,0.6929,88.28,28.64,5.5,88.55,28.45,4.97,0.0,11.56
+06089_5km_0305,Shasta County,Shasta,06089,5.0,40.930932,-122.601184,14,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4279,medium,0.6858,88.3,28.3,5.76,88.55,28.45,4.97,0.0,11.56
+06089_5km_0306,Shasta County,Shasta,06089,5.0,40.936651,-122.56475,14,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4297,medium,0.6836,88.33,28.13,5.85,88.55,28.45,4.97,0.0,11.56
+06089_5km_0307,Shasta County,Shasta,06089,5.0,40.936651,-122.505451,14,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4344,medium,0.6811,88.44,27.67,5.98,88.55,28.45,4.97,0.0,11.56
+06089_5km_0308,Shasta County,Shasta,06089,5.0,40.936651,-122.446152,14,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4393,medium,0.6795,88.58,27.17,6.08,88.55,28.45,4.97,0.0,11.56
+06089_5km_0309,Shasta County,Shasta,06089,5.0,40.936651,-122.386853,14,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4444,medium,0.6791,88.73,26.64,6.15,88.55,28.45,4.97,0.0,11.56
+06089_5km_0310,Shasta County,Shasta,06089,5.0,40.936651,-122.327555,14,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4496,medium,0.6795,88.91,26.1,6.2,88.55,28.45,4.97,0.0,11.56
+06089_5km_0311,Shasta County,Shasta,06089,5.0,40.936651,-122.268256,14,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4547,medium,0.6807,89.09,25.57,6.22,88.55,28.45,4.97,0.0,11.56
+06089_5km_0312,Shasta County,Shasta,06089,5.0,40.936651,-122.208957,14,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4594,medium,0.6824,89.26,25.07,6.22,88.55,28.45,4.97,0.0,11.56
+06089_5km_0313,Shasta County,Shasta,06089,5.0,40.936651,-122.149658,14,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4634,medium,0.6845,89.42,24.64,6.2,88.55,28.45,4.97,0.0,11.56
+06089_5km_0314,Shasta County,Shasta,06089,5.0,40.936651,-122.090359,14,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4665,medium,0.6867,89.55,24.3,6.16,88.55,28.45,4.97,0.0,11.56
+06089_5km_0315,Shasta County,Shasta,06089,5.0,40.936651,-122.031061,14,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4685,medium,0.6888,89.65,24.08,6.13,88.55,28.45,4.97,0.0,11.56
+06089_5km_0316,Shasta County,Shasta,06089,5.0,40.936651,-121.971762,14,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4691,medium,0.6906,89.69,24.0,6.15,88.55,28.45,4.97,0.0,11.56
+06089_5km_0317,Shasta County,Shasta,06089,5.0,40.936651,-121.912463,14,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4684,medium,0.6919,89.69,24.06,6.13,88.55,28.45,4.97,0.0,11.56
+06089_5km_0318,Shasta County,Shasta,06089,5.0,40.936651,-121.853164,14,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4663,medium,0.6927,89.63,24.28,6.08,88.55,28.45,4.97,0.0,11.56
+06089_5km_0319,Shasta County,Shasta,06089,5.0,40.936651,-121.793866,14,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4629,medium,0.693,89.53,24.63,5.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0320,Shasta County,Shasta,06089,5.0,40.936651,-121.734567,14,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4583,medium,0.6928,89.38,25.1,5.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0321,Shasta County,Shasta,06089,5.0,40.936651,-121.675268,14,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4527,medium,0.6923,89.19,25.69,5.84,88.55,28.45,4.97,0.0,11.56
+06089_5km_0322,Shasta County,Shasta,06089,5.0,40.936651,-121.615969,14,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4464,medium,0.6915,88.97,26.35,5.79,88.55,28.45,4.97,0.0,11.56
+06089_5km_0323,Shasta County,Shasta,06089,5.0,40.936651,-121.556671,14,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4395,medium,0.6909,88.74,27.07,5.73,88.55,28.45,4.97,0.0,11.56
+06089_5km_0324,Shasta County,Shasta,06089,5.0,40.936651,-121.497372,14,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4322,medium,0.6905,88.51,27.82,5.66,88.55,28.45,4.97,0.0,11.56
+06089_5km_0325,Shasta County,Shasta,06089,5.0,40.936651,-121.438073,14,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4249,medium,0.6906,88.27,28.58,5.58,88.55,28.45,4.97,0.0,11.56
+06089_5km_0326,Shasta County,Shasta,06089,5.0,40.936651,-121.378774,14,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4178,medium,0.6915,88.05,29.31,5.47,88.55,28.45,4.97,0.0,11.56
+06089_5km_0327,Shasta County,Shasta,06089,5.0,40.97016,-122.597071,15,7,1,county_boundary_clipped_grid,2020-08,23.33,0.4221,medium,0.6853,88.11,28.91,5.71,88.55,28.45,4.97,0.0,11.56
+06089_5km_0328,Shasta County,Shasta,06089,5.0,40.980277,-122.561588,15,8,1,county_boundary_clipped_grid,2020-08,23.33,0.423,medium,0.6835,88.11,28.83,5.78,88.55,28.45,4.97,0.0,11.56
+06089_5km_0329,Shasta County,Shasta,06089,5.0,40.981566,-122.505451,15,9,1,county_boundary_clipped_grid,2020-08,23.33,0.427,medium,0.6812,88.2,28.43,5.89,88.55,28.45,4.97,0.0,11.56
+06089_5km_0330,Shasta County,Shasta,06089,5.0,40.981566,-122.446152,15,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4317,medium,0.6798,88.34,27.95,5.99,88.55,28.45,4.97,0.0,11.56
+06089_5km_0331,Shasta County,Shasta,06089,5.0,40.981566,-122.386853,15,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4366,medium,0.6794,88.49,27.45,6.05,88.55,28.45,4.97,0.0,11.56
+06089_5km_0332,Shasta County,Shasta,06089,5.0,40.981566,-122.327555,15,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4416,medium,0.68,88.66,26.93,6.09,88.55,28.45,4.97,0.0,11.56
+06089_5km_0333,Shasta County,Shasta,06089,5.0,40.981566,-122.268256,15,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4464,medium,0.6813,88.83,26.42,6.11,88.55,28.45,4.97,0.0,11.56
+06089_5km_0334,Shasta County,Shasta,06089,5.0,40.981566,-122.208957,15,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4509,medium,0.6831,89.0,25.94,6.1,88.55,28.45,4.97,0.0,11.56
+06089_5km_0335,Shasta County,Shasta,06089,5.0,40.981566,-122.149658,15,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4548,medium,0.6853,89.16,25.52,6.08,88.55,28.45,4.97,0.0,11.56
+06089_5km_0336,Shasta County,Shasta,06089,5.0,40.981566,-122.090359,15,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4578,medium,0.6875,89.28,25.2,6.04,88.55,28.45,4.97,0.0,11.56
+06089_5km_0337,Shasta County,Shasta,06089,5.0,40.981566,-122.031061,15,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4597,medium,0.6896,89.38,24.98,6.0,88.55,28.45,4.97,0.0,11.56
+06089_5km_0338,Shasta County,Shasta,06089,5.0,40.981566,-121.971762,15,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4605,medium,0.6914,89.43,24.89,5.95,88.55,28.45,4.97,0.0,11.56
+06089_5km_0339,Shasta County,Shasta,06089,5.0,40.981566,-121.912463,15,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4599,medium,0.6926,89.42,24.94,5.91,88.55,28.45,4.97,0.0,11.56
+06089_5km_0340,Shasta County,Shasta,06089,5.0,40.981566,-121.853164,15,20,1,county_boundary_clipped_grid,2020-08,23.33,0.458,medium,0.6934,89.37,25.14,5.86,88.55,28.45,4.97,0.0,11.56
+06089_5km_0341,Shasta County,Shasta,06089,5.0,40.981566,-121.793866,15,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4548,medium,0.6936,89.27,25.47,5.82,88.55,28.45,4.97,0.0,11.56
+06089_5km_0342,Shasta County,Shasta,06089,5.0,40.981566,-121.734567,15,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4504,medium,0.6932,89.13,25.92,5.78,88.55,28.45,4.97,0.0,11.56
+06089_5km_0343,Shasta County,Shasta,06089,5.0,40.981566,-121.675268,15,23,1,county_boundary_clipped_grid,2020-08,23.33,0.445,medium,0.6926,88.95,26.48,5.74,88.55,28.45,4.97,0.0,11.56
+06089_5km_0344,Shasta County,Shasta,06089,5.0,40.981566,-121.615969,15,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4389,medium,0.6917,88.74,27.13,5.7,88.55,28.45,4.97,0.0,11.56
+06089_5km_0345,Shasta County,Shasta,06089,5.0,40.981566,-121.556671,15,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4322,medium,0.691,88.51,27.83,5.65,88.55,28.45,4.97,0.0,11.56
+06089_5km_0346,Shasta County,Shasta,06089,5.0,40.981566,-121.497372,15,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4251,medium,0.6905,88.28,28.56,5.58,88.55,28.45,4.97,0.0,11.56
+06089_5km_0347,Shasta County,Shasta,06089,5.0,40.981566,-121.438073,15,27,1,county_boundary_clipped_grid,2020-08,23.33,0.418,medium,0.6905,88.05,29.29,5.5,88.55,28.45,4.97,0.0,11.56
+06089_5km_0348,Shasta County,Shasta,06089,5.0,40.981566,-121.378774,15,28,1,county_boundary_clipped_grid,2020-08,23.33,0.411,medium,0.6913,87.84,30.01,5.4,88.55,28.45,4.97,0.0,11.56
+06089_5km_0349,Shasta County,Shasta,06089,5.0,41.005144,-122.535606,16,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4208,medium,0.6829,88.03,29.06,5.77,88.55,28.45,4.97,0.0,11.56
+06089_5km_0350,Shasta County,Shasta,06089,5.0,41.027505,-122.501872,16,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4196,medium,0.6827,87.99,29.19,5.76,88.55,28.45,4.97,0.0,11.56
+06089_5km_0351,Shasta County,Shasta,06089,5.0,41.026482,-122.446152,16,10,1,county_boundary_clipped_grid,2020-08,23.33,0.424,medium,0.6815,88.11,28.74,5.85,88.55,28.45,4.97,0.0,11.56
+06089_5km_0352,Shasta County,Shasta,06089,5.0,41.026482,-122.386853,16,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4287,medium,0.6812,88.26,28.25,5.91,88.55,28.45,4.97,0.0,11.56
+06089_5km_0353,Shasta County,Shasta,06089,5.0,41.026482,-122.327555,16,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4335,medium,0.6818,88.42,27.75,5.94,88.55,28.45,4.97,0.0,11.56
+06089_5km_0354,Shasta County,Shasta,06089,5.0,41.026482,-122.268256,16,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4381,medium,0.6832,88.59,27.26,5.95,88.55,28.45,4.97,0.0,11.56
+06089_5km_0355,Shasta County,Shasta,06089,5.0,41.026482,-122.208957,16,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4425,medium,0.6852,88.76,26.8,5.94,88.55,28.45,4.97,0.0,11.56
+06089_5km_0356,Shasta County,Shasta,06089,5.0,41.026482,-122.149658,16,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4462,medium,0.6874,88.91,26.4,5.92,88.55,28.45,4.97,0.0,11.56
+06089_5km_0357,Shasta County,Shasta,06089,5.0,41.026482,-122.090359,16,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4491,medium,0.6897,89.04,26.08,5.88,88.55,28.45,4.97,0.0,11.56
+06089_5km_0358,Shasta County,Shasta,06089,5.0,41.026482,-122.031061,16,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4511,medium,0.6918,89.13,25.86,5.83,88.55,28.45,4.97,0.0,11.56
+06089_5km_0359,Shasta County,Shasta,06089,5.0,41.026482,-121.971762,16,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4518,medium,0.6935,89.18,25.77,5.79,88.55,28.45,4.97,0.0,11.56
+06089_5km_0360,Shasta County,Shasta,06089,5.0,41.026482,-121.912463,16,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4514,medium,0.6947,89.18,25.81,5.75,88.55,28.45,4.97,0.0,11.56
+06089_5km_0361,Shasta County,Shasta,06089,5.0,41.026482,-121.853164,16,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4496,medium,0.6954,89.13,25.99,5.71,88.55,28.45,4.97,0.0,11.56
+06089_5km_0362,Shasta County,Shasta,06089,5.0,41.026482,-121.793866,16,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4465,medium,0.6955,89.04,26.31,5.67,88.55,28.45,4.97,0.0,11.56
+06089_5km_0363,Shasta County,Shasta,06089,5.0,41.026482,-121.734567,16,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4424,medium,0.6951,88.9,26.74,5.63,88.55,28.45,4.97,0.0,11.56
+06089_5km_0364,Shasta County,Shasta,06089,5.0,41.026482,-121.675268,16,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4372,medium,0.6943,88.72,27.28,5.6,88.55,28.45,4.97,0.0,11.56
+06089_5km_0365,Shasta County,Shasta,06089,5.0,41.026482,-121.615969,16,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4313,medium,0.6934,88.51,27.9,5.56,88.55,28.45,4.97,0.0,11.56
+06089_5km_0366,Shasta County,Shasta,06089,5.0,41.026482,-121.556671,16,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4247,medium,0.6925,88.29,28.58,5.52,88.55,28.45,4.97,0.0,11.56
+06089_5km_0367,Shasta County,Shasta,06089,5.0,41.026482,-121.497372,16,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4179,medium,0.6919,88.06,29.3,5.46,88.55,28.45,4.97,0.0,11.56
+06089_5km_0368,Shasta County,Shasta,06089,5.0,41.026482,-121.438073,16,27,1,county_boundary_clipped_grid,2020-08,23.33,0.411,medium,0.6919,87.84,30.01,5.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0369,Shasta County,Shasta,06089,5.0,41.026482,-121.378774,16,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4088,medium,0.6902,87.75,30.25,5.41,88.55,28.45,4.97,0.0,11.56
+06089_5km_0370,Shasta County,Shasta,06089,5.0,41.068388,-122.536701,17,8,1,county_boundary_clipped_grid,2020-08,23.33,0.4104,medium,0.6867,87.75,30.11,5.54,88.55,28.45,4.97,0.0,11.56
+06089_5km_0371,Shasta County,Shasta,06089,5.0,41.069185,-122.505451,17,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4124,medium,0.6857,87.8,29.91,5.59,88.55,28.45,4.97,0.0,11.56
+06089_5km_0372,Shasta County,Shasta,06089,5.0,41.071235,-122.446152,17,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4164,medium,0.6847,87.91,29.5,5.67,88.55,28.45,4.97,0.0,11.56
+06089_5km_0373,Shasta County,Shasta,06089,5.0,41.071397,-122.386853,17,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4209,medium,0.6845,88.06,29.04,5.72,88.55,28.45,4.97,0.0,11.56
+06089_5km_0374,Shasta County,Shasta,06089,5.0,41.071397,-122.327555,17,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4255,medium,0.6852,88.21,28.56,5.75,88.55,28.45,4.97,0.0,11.56
+06089_5km_0375,Shasta County,Shasta,06089,5.0,41.071397,-122.268256,17,13,1,county_boundary_clipped_grid,2020-08,23.33,0.43,medium,0.6867,88.38,28.08,5.76,88.55,28.45,4.97,0.0,11.56
+06089_5km_0376,Shasta County,Shasta,06089,5.0,41.071397,-122.208957,17,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4342,medium,0.6887,88.54,27.63,5.74,88.55,28.45,4.97,0.0,11.56
+06089_5km_0377,Shasta County,Shasta,06089,5.0,41.071397,-122.149658,17,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4379,medium,0.691,88.69,27.24,5.71,88.55,28.45,4.97,0.0,11.56
+06089_5km_0378,Shasta County,Shasta,06089,5.0,41.071397,-122.090359,17,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4407,medium,0.6933,88.82,26.92,5.67,88.55,28.45,4.97,0.0,11.56
+06089_5km_0379,Shasta County,Shasta,06089,5.0,41.071397,-122.031061,17,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4427,medium,0.6954,88.91,26.71,5.63,88.55,28.45,4.97,0.0,11.56
+06089_5km_0380,Shasta County,Shasta,06089,5.0,41.071397,-121.971762,17,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4435,medium,0.6971,88.96,26.61,5.58,88.55,28.45,4.97,0.0,11.56
+06089_5km_0381,Shasta County,Shasta,06089,5.0,41.071397,-121.912463,17,19,1,county_boundary_clipped_grid,2020-08,23.33,0.443,medium,0.6983,88.96,26.65,5.54,88.55,28.45,4.97,0.0,11.56
+06089_5km_0382,Shasta County,Shasta,06089,5.0,41.071397,-121.853164,17,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4414,medium,0.6989,88.92,26.82,5.5,88.55,28.45,4.97,0.0,11.56
+06089_5km_0383,Shasta County,Shasta,06089,5.0,41.071397,-121.793866,17,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4385,medium,0.6989,88.83,27.11,5.47,88.55,28.45,4.97,0.0,11.56
+06089_5km_0384,Shasta County,Shasta,06089,5.0,41.071397,-121.734567,17,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4345,medium,0.6984,88.69,27.53,5.44,88.55,28.45,4.97,0.0,11.56
+06089_5km_0385,Shasta County,Shasta,06089,5.0,41.071397,-121.675268,17,23,1,county_boundary_clipped_grid,2020-08,23.33,0.4295,medium,0.6976,88.52,28.06,5.41,88.55,28.45,4.97,0.0,11.56
+06089_5km_0386,Shasta County,Shasta,06089,5.0,41.071397,-121.615969,17,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4237,medium,0.6965,88.32,28.66,5.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0387,Shasta County,Shasta,06089,5.0,41.071397,-121.556671,17,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4174,medium,0.6956,88.1,29.32,5.34,88.55,28.45,4.97,0.0,11.56
+06089_5km_0388,Shasta County,Shasta,06089,5.0,41.071397,-121.497372,17,26,1,county_boundary_clipped_grid,2020-08,23.33,0.412,medium,0.6943,87.91,29.89,5.32,88.55,28.45,4.97,0.0,11.56
+06089_5km_0389,Shasta County,Shasta,06089,5.0,41.071397,-121.438073,17,27,1,county_boundary_clipped_grid,2020-08,23.33,0.41,medium,0.6918,87.81,30.12,5.37,88.55,28.45,4.97,0.0,11.56
+06089_5km_0390,Shasta County,Shasta,06089,5.0,41.071397,-121.378774,17,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4085,medium,0.6898,87.73,30.29,5.42,88.55,28.45,4.97,0.0,11.56
+06089_5km_0391,Shasta County,Shasta,06089,5.0,41.107539,-122.434658,18,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4113,medium,0.6883,87.8,30.01,5.5,88.55,28.45,4.97,0.0,11.56
+06089_5km_0392,Shasta County,Shasta,06089,5.0,41.116313,-122.386853,18,11,1,county_boundary_clipped_grid,2020-08,23.33,0.4134,medium,0.6893,87.88,29.78,5.49,88.55,28.45,4.97,0.0,11.56
+06089_5km_0393,Shasta County,Shasta,06089,5.0,41.116313,-122.327555,18,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4178,medium,0.6901,88.04,29.32,5.51,88.55,28.45,4.97,0.0,11.56
+06089_5km_0394,Shasta County,Shasta,06089,5.0,41.116313,-122.268256,18,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4222,medium,0.6917,88.2,28.85,5.51,88.55,28.45,4.97,0.0,11.56
+06089_5km_0395,Shasta County,Shasta,06089,5.0,41.116313,-122.208957,18,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4263,medium,0.6937,88.36,28.42,5.5,88.55,28.45,4.97,0.0,11.56
+06089_5km_0396,Shasta County,Shasta,06089,5.0,41.116313,-122.149658,18,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4298,medium,0.696,88.51,28.03,5.46,88.55,28.45,4.97,0.0,11.56
+06089_5km_0397,Shasta County,Shasta,06089,5.0,41.116313,-122.090359,18,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4327,medium,0.6984,88.63,27.72,5.42,88.55,28.45,4.97,0.0,11.56
+06089_5km_0398,Shasta County,Shasta,06089,5.0,41.116313,-122.031061,18,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4346,medium,0.7005,88.72,27.51,5.38,88.55,28.45,4.97,0.0,11.56
+06089_5km_0399,Shasta County,Shasta,06089,5.0,41.116313,-121.971762,18,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4354,medium,0.7022,88.77,27.41,5.34,88.55,28.45,4.97,0.0,11.56
+06089_5km_0400,Shasta County,Shasta,06089,5.0,41.116313,-121.912463,18,19,1,county_boundary_clipped_grid,2020-08,23.33,0.435,medium,0.7033,88.78,27.44,5.3,88.55,28.45,4.97,0.0,11.56
+06089_5km_0401,Shasta County,Shasta,06089,5.0,41.116313,-121.853164,18,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4335,medium,0.7039,88.74,27.6,5.26,88.55,28.45,4.97,0.0,11.56
+06089_5km_0402,Shasta County,Shasta,06089,5.0,41.116313,-121.793866,18,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4307,medium,0.7039,88.65,27.89,5.23,88.55,28.45,4.97,0.0,11.56
+06089_5km_0403,Shasta County,Shasta,06089,5.0,41.116313,-121.734567,18,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4268,medium,0.7033,88.51,28.29,5.21,88.55,28.45,4.97,0.0,11.56
+06089_5km_0404,Shasta County,Shasta,06089,5.0,41.116313,-121.675268,18,23,1,county_boundary_clipped_grid,2020-08,23.33,0.422,medium,0.7024,88.35,28.8,5.18,88.55,28.45,4.97,0.0,11.56
+06089_5km_0405,Shasta County,Shasta,06089,5.0,41.116313,-121.615969,18,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4173,medium,0.7008,88.17,29.3,5.18,88.55,28.45,4.97,0.0,11.56
+06089_5km_0406,Shasta County,Shasta,06089,5.0,41.116313,-121.556671,18,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4149,medium,0.6979,88.05,29.57,5.24,88.55,28.45,4.97,0.0,11.56
+06089_5km_0407,Shasta County,Shasta,06089,5.0,41.116313,-121.497372,18,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4126,medium,0.695,87.94,29.82,5.3,88.55,28.45,4.97,0.0,11.56
+06089_5km_0408,Shasta County,Shasta,06089,5.0,41.116313,-121.438073,18,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4106,medium,0.6925,87.84,30.05,5.36,88.55,28.45,4.97,0.0,11.56
+06089_5km_0409,Shasta County,Shasta,06089,5.0,41.116313,-121.378774,18,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4091,medium,0.6906,87.76,30.22,5.4,88.55,28.45,4.97,0.0,11.56
+06089_5km_0410,Shasta County,Shasta,06089,5.0,41.178797,-122.485223,19,9,1,county_boundary_clipped_grid,2020-08,23.33,0.4102,medium,0.692,87.82,30.09,5.37,88.55,28.45,4.97,0.0,11.56
+06089_5km_0411,Shasta County,Shasta,06089,5.0,41.161127,-122.43331,19,10,1,county_boundary_clipped_grid,2020-08,23.33,0.4101,medium,0.6918,87.81,30.11,5.37,88.55,28.45,4.97,0.0,11.56
+06089_5km_0412,Shasta County,Shasta,06089,5.0,41.160782,-122.386853,19,11,1,county_boundary_clipped_grid,2020-08,23.33,0.411,medium,0.693,87.86,30.0,5.35,88.55,28.45,4.97,0.0,11.56
+06089_5km_0413,Shasta County,Shasta,06089,5.0,41.161183,-122.327555,19,12,1,county_boundary_clipped_grid,2020-08,23.33,0.4128,medium,0.6952,87.95,29.8,5.3,88.55,28.45,4.97,0.0,11.56
+06089_5km_0414,Shasta County,Shasta,06089,5.0,41.161228,-122.268256,19,13,1,county_boundary_clipped_grid,2020-08,23.33,0.4149,medium,0.6979,88.05,29.56,5.24,88.55,28.45,4.97,0.0,11.56
+06089_5km_0415,Shasta County,Shasta,06089,5.0,41.161228,-122.208957,19,14,1,county_boundary_clipped_grid,2020-08,23.33,0.4186,medium,0.7001,88.2,29.17,5.21,88.55,28.45,4.97,0.0,11.56
+06089_5km_0416,Shasta County,Shasta,06089,5.0,41.16087,-122.149658,19,15,1,county_boundary_clipped_grid,2020-08,23.33,0.4222,medium,0.7024,88.35,28.78,5.18,88.55,28.45,4.97,0.0,11.56
+06089_5km_0417,Shasta County,Shasta,06089,5.0,41.160879,-122.090359,19,16,1,county_boundary_clipped_grid,2020-08,23.33,0.4249,medium,0.7048,88.47,28.48,5.14,88.55,28.45,4.97,0.0,11.56
+06089_5km_0418,Shasta County,Shasta,06089,5.0,41.160964,-122.031061,19,17,1,county_boundary_clipped_grid,2020-08,23.33,0.4268,medium,0.7069,88.57,28.27,5.09,88.55,28.45,4.97,0.0,11.56
+06089_5km_0419,Shasta County,Shasta,06089,5.0,41.16105,-121.971762,19,18,1,county_boundary_clipped_grid,2020-08,23.33,0.4277,medium,0.7086,88.62,28.17,5.05,88.55,28.45,4.97,0.0,11.56
+06089_5km_0420,Shasta County,Shasta,06089,5.0,41.161055,-121.912463,19,19,1,county_boundary_clipped_grid,2020-08,23.33,0.4274,medium,0.7098,88.62,28.19,5.04,88.55,28.45,4.97,0.0,11.56
+06089_5km_0421,Shasta County,Shasta,06089,5.0,41.161059,-121.853164,19,20,1,county_boundary_clipped_grid,2020-08,23.33,0.4259,medium,0.7103,88.58,28.34,5.0,88.55,28.45,4.97,0.0,11.56
+06089_5km_0422,Shasta County,Shasta,06089,5.0,41.161064,-121.793866,19,21,1,county_boundary_clipped_grid,2020-08,23.33,0.4243,medium,0.7096,88.52,28.51,4.98,88.55,28.45,4.97,0.0,11.56
+06089_5km_0423,Shasta County,Shasta,06089,5.0,41.161068,-121.734567,19,22,1,county_boundary_clipped_grid,2020-08,23.33,0.4229,medium,0.7079,88.45,28.67,5.02,88.55,28.45,4.97,0.0,11.56
+06089_5km_0424,Shasta County,Shasta,06089,5.0,41.161073,-121.675268,19,23,1,county_boundary_clipped_grid,2020-08,23.33,0.421,medium,0.7055,88.36,28.88,5.07,88.55,28.45,4.97,0.0,11.56
+06089_5km_0425,Shasta County,Shasta,06089,5.0,41.161108,-121.615969,19,24,1,county_boundary_clipped_grid,2020-08,23.33,0.4187,medium,0.7027,88.25,29.13,5.13,88.55,28.45,4.97,0.0,11.56
+06089_5km_0426,Shasta County,Shasta,06089,5.0,41.161102,-121.556671,19,25,1,county_boundary_clipped_grid,2020-08,23.33,0.4164,medium,0.6997,88.13,29.4,5.2,88.55,28.45,4.97,0.0,11.56
+06089_5km_0427,Shasta County,Shasta,06089,5.0,41.160938,-121.497372,19,26,1,county_boundary_clipped_grid,2020-08,23.33,0.4141,medium,0.6969,88.01,29.66,5.26,88.55,28.45,4.97,0.0,11.56
+06089_5km_0428,Shasta County,Shasta,06089,5.0,41.161015,-121.438073,19,27,1,county_boundary_clipped_grid,2020-08,23.33,0.4121,medium,0.6944,87.91,29.88,5.32,88.55,28.45,4.97,0.0,11.56
+06089_5km_0429,Shasta County,Shasta,06089,5.0,41.161152,-121.378774,19,28,1,county_boundary_clipped_grid,2020-08,23.33,0.4105,medium,0.6924,87.84,30.06,5.36,88.55,28.45,4.97,0.0,11.56
